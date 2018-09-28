@@ -6,7 +6,8 @@
                             str = retriveAllData(dir, file)
                             print(str)
 
-#appendStrDatatoJsonFile(strData, file, dir, tmpFile, tmpFileDir)
+#appendStrDatatoJsonFile(strData, jsonFiledir, jsonFile)
+
                             dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'Categories'
                             file = "tmp2.json"
                             strData = '''[{

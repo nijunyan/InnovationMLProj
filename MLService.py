@@ -28,6 +28,15 @@ def retriveAllData():
     str = json.dumps(mData, indent=2)
     return str
 
+@app.route('/commitData', methods = ['POST'])
+def commitData():
+    if request.headers['Content-Type'] == 'application/json':
+        sList = DataIO.getStrFromJSON(request.json)
+        return AnalyzeData.commitData(sList)
+
+    else:
+        return "415 Unsupported Media Type ;)"
+
 @app.route('/messages', methods = ['POST'])
 def messages():
     if request.headers['Content-Type'] == 'application/json':
@@ -35,6 +44,7 @@ def messages():
 
     else:
         return "415 Unsupported Media Type ;)"
+
 
 
 if __name__ == "__main__":

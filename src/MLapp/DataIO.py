@@ -102,18 +102,56 @@ def writeFileWithContent(dir, file, content):
     f.write(content)
     f.close()
 
-def appendStrDatatoJsonFile(strData, jsonFile, jsonFiledir):
+def appendStrDatatoJsonFile(strData, jsonFiledir, jsonFile, beginID = 0):
     sJsonFileData = readFileContent(jsonFiledir, jsonFile)
     obj = json.loads(sJsonFileData)
 
     aNewData = getPyObject(strData)
+
+    if isinstance(aNewData, dict):
+        aNewData = [aNewData]
+
     for i in range(len(aNewData)):
-        aNewData[i]["ID"] = len(obj) + i + 1
+        aNewData[i]["ID"] = beginID + len(obj) + i + 1
         obj.append(aNewData[i])
 
     str = json.dumps(obj, indent=2)
-    createFile(jsonFiledir, jsonFile, str)
+    createFile(jsonFiledir, jsonFile, str, mode='w')
     return obj
+
+def getTmpAllDataID(dir=None, file=None):
+    if dir is None:
+        dir = os.path.abspath('../..') + os.sep + "dataSet"
+        file = "all-data.json"
+    str = readFileContent(dir, file)
+    j = json.loads(str)
+    id = len(j)
+    return id
+
+def appendStrData(strData, sFileLocation, sCategory):
+    if sFileLocation == "DataWithCategories":
+        dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp" + os.sep + sCategory.strip(' ')
+        file = "tmp-DataWithCategories-" + sCategory.strip(' ') + "-data.json"
+    elif sFileLocation == "DataWithLabels":
+        dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp" + os.sep + sCategory.strip(' ')
+        file = "tmp-DataWithLabels-" + sCategory.strip(' ') + "-data.json"
+    else:
+        dir = os.path.abspath('../..') + os.sep + "dataSet"
+        file = "all-data.json"
+        beginID = getTmpAllDataID(dir, file)
+        dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp"
+        file = "tmp-allData.json"
+
+    appendStrDatatoJsonFile(strData, dir, file, beginID)
+
+def getData(sFileLocation, sCategory):
+    if sFileLocation == "DataWithLabels":
+        dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "DataWithLabels" + os.sep + sCategory.strip(' ')
+        file = "DataWithLabels-" + sCategory.strip(' ') + "-data.json"
+        strData = readFileContent(dir, file)
+        return json.loads(strData)
+
+    return []
 
 def getPyObject(strData):
     tmpFileDir = os.path.abspath('../..') + os.sep + "tmp"
@@ -122,6 +160,9 @@ def getPyObject(strData):
     nstr = readFileContent(tmpFileDir, tmpFile)
     newObj = json.loads(nstr)
     return newObj
+
+def getStrFromJSON(obj):
+    return json.dumps(obj, indent=2)
 
 def retriveAllData(dir, file):
     fileName = getFileName(dir, file)
