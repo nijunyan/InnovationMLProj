@@ -16,7 +16,7 @@ def getAllDataWithCategory(aFeatures = None):
         ]
 
     dir = os.getcwd() + os.sep + "dataSet"
-    file = "allprjdata.json"
+    file = "all-data.json"
     sData = retriveAllData(dir, file)
 
     aData = json.loads(sData)
@@ -44,7 +44,7 @@ def getAllDataInArray(aFeatures = None):
         ]
 
     dir = os.getcwd() + os.sep + "dataSet"
-    file = "allprjdata.json"
+    file = "all-data.json"
     sData = retriveAllData(dir, file)
 
     aData = json.loads(sData)
@@ -107,10 +107,11 @@ def appendStrDatatoJsonFile(strData, jsonFile, jsonFiledir):
     sJsonFileData = readFileContent(jsonFiledir, jsonFile)
     obj = json.loads(sJsonFileData)
 
-    newObj = getPyObject(strData)
-    newObj["ID"] = len(obj) + 1
+    aNewData = getPyObject(strData)
+    for i in range(len(aNewData)):
+        aNewData[i]["ID"] = len(obj) + i + 1
+        obj.append(aNewData[i])
 
-    obj.append(newObj)
     obj = json.dumps(obj, indent=2)
     writeFileWithContent(jsonFiledir, jsonFile, obj)
     return obj
@@ -142,7 +143,15 @@ def preserveModel(category, sModelType, model):
     modelFileName = getFileName(dir, file)
     joblib.dump(model, modelFileName)
 
-def main():
-    getModel('Traffic_Time_Index', 'scaler')
+def createCategoryData():
+    aFeatures = [
+        "SmartIndex1"
+    ]
+    mData = getAllDataWithCategory(aFeatures)
+    for k, v in mData.items():
+        dir = os.getcwd() + os.sep + "dataSet"
+        file = k.strip(' ') + '-data.json'
+        createFile(dir, file, text="[]", mode='w')
+
 if __name__ == "__main__":
-    main()
+    pass
