@@ -1,0 +1,43 @@
+from flask import Flask
+from flask import request
+from flask import json
+
+import os
+import json
+import sys
+
+
+import src.MLapp.DataIO as DataIO
+import src.MLapp.AnalyzeData as AnalyzeData
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return "Hello World!"
+
+@app.route('/initModel')
+def initModel():
+    AnalyzeData.initialClusteringAndBuildCLF()
+    label = AnalyzeData.predict()
+    return "init successfully"
+
+@app.route('/retriveAllData')
+def retriveAllData():
+    mData = DataIO.getAllDataWithCategory()
+    str = json.dumps(mData, indent=2)
+    return str
+
+@app.route('/messages', methods = ['POST'])
+def messages():
+    if request.headers['Content-Type'] == 'application/json':
+        return "JSON Message: " + json.dumps(request.json)
+
+    else:
+        return "415 Unsupported Media Type ;)"
+
+
+if __name__ == "__main__":
+    os.chdir(os.getcwd() + os.sep + 'src' + os.sep + 'MLapp')
+    app.run()
+

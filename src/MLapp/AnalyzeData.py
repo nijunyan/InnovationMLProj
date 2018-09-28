@@ -1,4 +1,4 @@
-import src.dataIO as dataIO
+import src.MLapp.DataIO as DataIO
 import numpy as np
 from sklearn import preprocessing
 from sklearn.cluster import KMeans
@@ -19,7 +19,7 @@ def dataProcessing(key, X):
     scaler = preprocessing.StandardScaler()
     X = scaler.fit_transform(originalX)
 
-    dataIO.preserveModel(key, 'scaler', scaler)
+    DataIO.preserveModel(key, 'scaler', scaler)
 
     return X, scaler
 
@@ -56,7 +56,7 @@ def doTraining(mMarkedX):
 
 def doSVM(X, Y, key):
     clf = SVM.doSVM(X, Y)
-    dataIO.preserveModel(key, 'clf', clf)
+    DataIO.preserveModel(key, 'clf', clf)
     pass
 
 def transformOnePiceOfData():
@@ -64,18 +64,18 @@ def transformOnePiceOfData():
 
 #initial clustering
 def initialClusteringAndBuildCLF():
-    mDataWithCategories = dataIO.getAllData()
+    mDataWithCategories = DataIO.getAllData()
     aFeatures = [
         "CityArea", "Population", "PerCapita",
         "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
     ]
-    mDataWithCategoriesForClustering = dataIO.getAllData(aFeatures)
+    mDataWithCategoriesForClustering = DataIO.getAllData(aFeatures)
 
     mNewX, mScaler = dataPreprocessingForAll(mDataWithCategoriesForClustering)
 
     mMarkedX, mClusters, mDataWithLabels = doAnalyzing(mNewX, mDataWithCategories)
 
-    dataIO.preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClusters)
+    DataIO.preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClusters)
 
     doTraining(mMarkedX)
 
@@ -86,8 +86,8 @@ def predict():
     predictFromCLF(category)
 
 def predictFromCLF(category):
-    clf = dataIO.getModel(category, 'clf')
-    scaler = dataIO.getModel(category, 'scaler')
+    clf = DataIO.getModel(category, 'clf')
+    scaler = DataIO.getModel(category, 'scaler')
 
     aFeatures = [
         "CityArea", "Population", "PerCapita",
@@ -112,8 +112,8 @@ def predictFromCLF(category):
                 "PrjURL": "https://hyp.is/0W2vcK_8Eei-2AfXYJ_wFw"
               }'''.strip('"')
 
-    oData = dataIO.getPyObject(sData)
-    aData = [(dataIO.makeUpDataInArray(oData, aFeatures))]
+    oData = DataIO.getPyObject(sData)
+    aData = [(DataIO.makeUpDataInArray(oData, aFeatures))]
     aTransformedData = scaler.transform(aData)
     label = clf.predict(aTransformedData)
     print(label)
@@ -121,6 +121,6 @@ def predictFromCLF(category):
 
 def main():
     initialClusteringAndBuildCLF()
-
+    predict()
 if __name__=="__main__":
     main()

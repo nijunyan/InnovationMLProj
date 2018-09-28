@@ -7,14 +7,15 @@ def makeUpDataWithCategory(oData, aFeatures):
         oTargetData[aFeatures[i]] = oData[aFeatures[i]]
     return oTargetData
 
-def getAllDataWithCategory(aFeatures = None):
+def getAllDataWithCategory(aFeatures = None, dir = None):
     if aFeatures is None:
         aFeatures = [
             "ID", "City", "Country", "IndexGrp", "CityArea", "Population", "PerCapita",
             "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
             "PrjName", "PrjDescription", "PrjURL"
         ]
-    dir = os.path.abspath('..') + os.sep + "dataSet"
+    if dir is None:
+        dir = os.path.abspath('../..') + os.sep + "dataSet"
     file = "all-data.json"
     sData = retriveAllData(dir, file)
 
@@ -41,7 +42,7 @@ def getAllData(aFeatures = None):
             "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
             "PrjName", "PrjDescription", "PrjURL"
         ]
-    dir = os.path.abspath('..') + os.sep + "dataSet"
+    dir = os.path.abspath('../..') + os.sep + "dataSet"
     file = "all-data.json"
     sData = retriveAllData(dir, file)
 
@@ -60,7 +61,7 @@ def getFileName(dir, file):
 
 def buildFolder(aFolders=['SmartIndex1']):
     mData = getAllDataWithCategory(aFolders)
-    dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'Categories'
+    dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + 'Categories'
     for k in mData.keys():
         mkdir(dir.strip(' ') + os.sep + k.strip(' '))
 
@@ -70,7 +71,7 @@ def mkdir(path):
     if not folder:
         os.makedirs(path)
         print
-        "---  new folder...  ---"
+        "---  new folder../...  ---"
         print
         "---  OK  ---"
 
@@ -115,7 +116,7 @@ def appendStrDatatoJsonFile(strData, jsonFile, jsonFiledir):
     return obj
 
 def getPyObject(strData):
-    tmpFileDir = os.path.abspath('..') + os.sep + "tmp"
+    tmpFileDir = os.path.abspath('../..') + os.sep + "tmp"
     tmpFile = "tmp.json"
     createFile(tmpFileDir, tmpFile, text=strData, mode='w')
     nstr = readFileContent(tmpFileDir, tmpFile)
@@ -130,14 +131,14 @@ def retriveAllData(dir, file):
     return str
 
 def getModel(category, sModelType):
-    dir = os.path.abspath('..') + os.sep + 'Models' + os.sep + category.strip(' ')
+    dir = os.path.abspath('../..') + os.sep + 'Models' + os.sep + category.strip(' ')
     file = category.strip(' ') + '-' + sModelType.strip(' ') + ".m"
     modelFileName = getFileName(dir, file)
     model = joblib.load(modelFileName)
     return model
 
 def preserveModel(category, sModelType, model):
-    dir = os.path.abspath('..') + os.sep + 'Models' + os.sep + category.strip(' ')
+    dir = os.path.abspath('../..') + os.sep + 'Models' + os.sep + category.strip(' ')
     file = category.strip(' ') + '-' + sModelType.strip(' ') + ".m"
     modelFileName = getFileName(dir, file)
     joblib.dump(model, modelFileName)
@@ -161,7 +162,7 @@ def preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClust
             "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
             "PrjName", "PrjDescription", "PrjURL", "Label"
         ]
-        dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'DataWithLabels' + os.sep + k.strip(' ')
+        dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + 'DataWithLabels' + os.sep + k.strip(' ')
         file = 'DataWithLabels-' + k.strip(' ') + '-data.json'
         preserveMData(dir, file, mDataWithLabels[k], aFeatures)
 
@@ -170,7 +171,7 @@ def preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClust
             "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
             "PrjName", "PrjDescription", "PrjURL"
         ]
-        dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'DataWithCategories'+ os.sep + k.strip(' ')
+        dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + 'DataWithCategories'+ os.sep + k.strip(' ')
         file = 'DataWithCategories-' + k.strip(' ') + '-data.json'
         preserveMData(dir, file, mDataWithCategories[k],aFeatures)
 
@@ -178,14 +179,23 @@ def preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClust
             "CityArea", "Population", "PerCapita",
             "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
         ]
-        dir = os.path.abspath('..') + os.sep + 'Models' + os.sep + k.strip(' ')
+        dir = os.path.abspath('../..') + os.sep + 'Models' + os.sep + k.strip(' ')
         file = k.strip(' ') + '-cluser.json'
         preserveMData(dir, file, mClusters[k], aFeatures)
 
     pass
 
-
-
+def checkJSON():
+    aFeatures = [
+        "SmartIndex1"
+    ]
+    mData = getAllDataWithCategory(aFeatures)
+    for k in mData.keys():
+        dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + 'DataWithLabels' + os.sep + k.strip(' ')
+        file = 'DataWithLabels-' + k.strip(' ') + '-data.json'
+        str = readFileContent(dir, file)
+        j = json.loads(str)
+        pass
 
 ##########################
 def initJSONfiles():
@@ -195,7 +205,7 @@ def initJSONfiles():
         ]
         mData = getAllDataWithCategory(aFeatures)
         for k in mData.keys():
-            dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + dirName.strip(' ')
+            dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + dirName.strip(' ')
             file = dirName.strip(' ')  + '-' + k.strip(' ') + '-data.json'
             createFile(dir, file, text="[]")
         pass
@@ -204,38 +214,29 @@ def initJSONfiles():
     initJSONFilesInDir("DataWithLabels")
     initJSONFilesInDir("DataProcessedWithLabels")
 
-def initFolders():
+def initTMPJSONfiles():
+    # dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + 'tmp'
+    # initFolders(dir)
     aFeatures = [
         "SmartIndex1"
     ]
     mData = getAllDataWithCategory(aFeatures)
     for k in mData.keys():
-        dir = os.path.abspath('..') + os.sep + 'Models' + os.sep + k.strip(' ')
-        mkdir(dir)
+        dir = os.path.abspath('../..') + os.sep + 'dataSet' + os.sep + 'tmp' + os.sep + k.strip(' ')
+        file = 'tmp-DataWithCategories-' + k.strip(' ') + '-data.json'
+        createFile(dir, file, text="[]")
+        file = 'tmp-DataWithLabels-' + k.strip(' ') + '-data.json'
+        createFile(dir, file, text="[]")
+    pass
+
+def initFolders(dir):
+    aFeatures = [
+        "SmartIndex1"
+    ]
+    mData = getAllDataWithCategory(aFeatures)
+    for k in mData.keys():
+        cdir = dir + os.sep + k.strip(' ')
+        mkdir(cdir)
 
 if __name__ == "__main__":
-    dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'Categories'
-    file = "tmp2.json"
-    strData = '''[{
-            "ID": 3,
-            "City": "Stuttgart",
-            "Country": "Germany",
-            "IndexGrp": "Real_time_traveller_Information",
-            "CityArea": 297.36,
-            "Population": 623738,
-            "PerCapita": 65262,
-            "SmartIndex1": "Traffic_Time_Index",
-            "SmartIndexValue": 32.05,
-            "PrjDuration": 7,
-            "PrjCost": 8,
-            "PrjROI": 7,
-            "PrjName": "The moveBW project offers drivers an attractive option that links motorized personal transport with alternative modes of transportation. An easy-to-use mobility assistant on your smartphone helps you choose a mode of transportation and reliably guides you to your destination. Users of the mobility assistant can book different types of transportation â€“ yet receive just one bill that lists every mode booked during the past month. To plan intermodal routes, the mobility assistant considers services such as public transportation, car sharing, bike sharing, and parking-space management as well as information on traffic jams and construction areas. MoveBW encourages people in the greater Stuttgart area to efficiently utilize all modes of transportation, which eases congestion. This project also aids local authorities in optimizing regional traffic flows.MoveBW is overseen by a consortium of six companies, led by Robert Bosch GmbH: transportation solutions company highQ, parking-space operator Parkraumgesellschaft Baden-WÃ¼rttemberg, TraffiCon GmbH, PRISMA Solutions GmbH, and MRK Management Consultants. The moveBW project began in mid-2016 and will end in late 2017.",
-            "PrjDescription": "moveBW - mobility assistant for intermodal information, planning routes, and buying tickets",
-            "PrjURL": "https://hyp.is/0W2vcK_8Eei-2AfXYJ_wFw"
-          }]'''.strip('"')
-
-    createFile(dir, file, text=strData)
-
-    dir = os.path.abspath('..') + os.sep + "dataSet" + os.sep + "tmp"
-    file = 'tmp.json'
-    appendStrDatatoJsonFile(strData, file, dir)
+    checkJSON()
