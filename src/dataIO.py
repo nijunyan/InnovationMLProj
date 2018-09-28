@@ -34,7 +34,7 @@ def makeUpDataInArray(oData, aFeatures):
         aTargetData.append(oData[aFeatures[i]])
     return aTargetData
 
-def getAllDataInArray(aFeatures = None):
+def getAllData(aFeatures = None):
     if aFeatures is None:
         aFeatures = [
             "ID", "City", "Country", "IndexGrp", "CityArea", "Population", "PerCapita",
@@ -110,8 +110,8 @@ def appendStrDatatoJsonFile(strData, jsonFile, jsonFiledir):
         aNewData[i]["ID"] = len(obj) + i + 1
         obj.append(aNewData[i])
 
-    obj = json.dumps(obj, indent=2)
-    writeFileWithContent(jsonFiledir, jsonFile, obj)
+    str = json.dumps(obj, indent=2)
+    createFile(jsonFiledir, jsonFile, str)
     return obj
 
 def getPyObject(strData):
@@ -142,6 +142,52 @@ def preserveModel(category, sModelType, model):
     modelFileName = getFileName(dir, file)
     joblib.dump(model, modelFileName)
 
+def preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClusters):
+    def preserveMData(dir, file, aList, aFeatures):
+        aData = []
+
+        for i in range(len(aList)):
+            mData = {}
+            for j in range(len(aFeatures)):
+                mData[aFeatures[j]] = aList[i][j]
+            aData.append(mData)
+
+        str = json.dumps(aData, indent=2)
+        createFile(dir, file, str)
+
+    for k in mClusters.keys():
+        aFeatures = [
+            "ID", "City", "Country", "IndexGrp", "CityArea", "Population", "PerCapita",
+            "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
+            "PrjName", "PrjDescription", "PrjURL", "Label"
+        ]
+        dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'DataWithLabels' + os.sep + k.strip(' ')
+        file = 'DataWithLabels-' + k.strip(' ') + '-data.json'
+        preserveMData(dir, file, mDataWithLabels[k], aFeatures)
+
+        aFeatures = [
+            "ID", "City", "Country", "IndexGrp", "CityArea", "Population", "PerCapita",
+            "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
+            "PrjName", "PrjDescription", "PrjURL"
+        ]
+        dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'DataWithCategories'+ os.sep + k.strip(' ')
+        file = 'DataWithCategories-' + k.strip(' ') + '-data.json'
+        preserveMData(dir, file, mDataWithCategories[k],aFeatures)
+
+        aFeatures = [
+            "CityArea", "Population", "PerCapita",
+            "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
+        ]
+        dir = os.path.abspath('..') + os.sep + 'Models' + os.sep + k.strip(' ')
+        file = k.strip(' ') + '-cluser.json'
+        preserveMData(dir, file, mClusters[k], aFeatures)
+
+    pass
+
+
+
+
+##########################
 def initJSONfiles():
     def initJSONFilesInDir(dirName):
         aFeatures = [
@@ -168,4 +214,28 @@ def initFolders():
         mkdir(dir)
 
 if __name__ == "__main__":
-    initFolders()
+    dir = os.path.abspath('..') + os.sep + 'dataSet' + os.sep + 'Categories'
+    file = "tmp2.json"
+    strData = '''[{
+            "ID": 3,
+            "City": "Stuttgart",
+            "Country": "Germany",
+            "IndexGrp": "Real_time_traveller_Information",
+            "CityArea": 297.36,
+            "Population": 623738,
+            "PerCapita": 65262,
+            "SmartIndex1": "Traffic_Time_Index",
+            "SmartIndexValue": 32.05,
+            "PrjDuration": 7,
+            "PrjCost": 8,
+            "PrjROI": 7,
+            "PrjName": "The moveBW project offers drivers an attractive option that links motorized personal transport with alternative modes of transportation. An easy-to-use mobility assistant on your smartphone helps you choose a mode of transportation and reliably guides you to your destination. Users of the mobility assistant can book different types of transportation â€“ yet receive just one bill that lists every mode booked during the past month. To plan intermodal routes, the mobility assistant considers services such as public transportation, car sharing, bike sharing, and parking-space management as well as information on traffic jams and construction areas. MoveBW encourages people in the greater Stuttgart area to efficiently utilize all modes of transportation, which eases congestion. This project also aids local authorities in optimizing regional traffic flows.MoveBW is overseen by a consortium of six companies, led by Robert Bosch GmbH: transportation solutions company highQ, parking-space operator Parkraumgesellschaft Baden-WÃ¼rttemberg, TraffiCon GmbH, PRISMA Solutions GmbH, and MRK Management Consultants. The moveBW project began in mid-2016 and will end in late 2017.",
+            "PrjDescription": "moveBW - mobility assistant for intermodal information, planning routes, and buying tickets",
+            "PrjURL": "https://hyp.is/0W2vcK_8Eei-2AfXYJ_wFw"
+          }]'''.strip('"')
+
+    createFile(dir, file, text=strData)
+
+    dir = os.path.abspath('..') + os.sep + "dataSet" + os.sep + "tmp"
+    file = 'tmp.json'
+    appendStrDatatoJsonFile(strData, file, dir)

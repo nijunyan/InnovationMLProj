@@ -1,4 +1,4 @@
-import dataIO
+import src.dataIO as dataIO
 import numpy as np
 from sklearn import preprocessing
 from sklearn.cluster import KMeans
@@ -46,6 +46,8 @@ def doAnalyzing(mX, aDtaWithCategory):
         mDataWithLabels[key] = np.c_[aDtaWithCategory[key], labels]
         index += 1
         print (labels)
+
+
     return mMarkedX, mClusters, mDataWithLabels
 
 def doTraining(mMarkedX):
@@ -62,16 +64,18 @@ def transformOnePiceOfData():
 
 #initial clustering
 def initialClusteringAndBuildCLF():
-    aDataWithCategory = dataIO.getAllDataInArray()
+    mDataWithCategories = dataIO.getAllData()
     aFeatures = [
         "CityArea", "Population", "PerCapita",
         "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
     ]
-    aDataWithCategoryForClustering = dataIO.getAllDataInArray(aFeatures)
+    mDataWithCategoriesForClustering = dataIO.getAllData(aFeatures)
 
-    mNewX, mScaler = dataPreprocessingForAll(aDataWithCategoryForClustering)
+    mNewX, mScaler = dataPreprocessingForAll(mDataWithCategoriesForClustering)
 
-    mMarkedX, mClusters, mDataWithLabels = doAnalyzing(mNewX, aDataWithCategory)
+    mMarkedX, mClusters, mDataWithLabels = doAnalyzing(mNewX, mDataWithCategories)
+
+    dataIO.preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClusters)
 
     doTraining(mMarkedX)
 
@@ -112,6 +116,7 @@ def predictFromCLF(category):
     aData = [(dataIO.makeUpDataInArray(oData, aFeatures))]
     aTransformedData = scaler.transform(aData)
     label = clf.predict(aTransformedData)
+    print(label)
     return label
 
 def main():
