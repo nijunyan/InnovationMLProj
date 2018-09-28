@@ -1,0 +1,7 @@
+1 First manipulate the excel, extract the data in to a list.
+
+2 Convert the list into np.ndarray as raw data.
+
+3 Preprocess the convert the raw data.
+
+4 Do clustering on the raw data.

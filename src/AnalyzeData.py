@@ -1,11 +1,10 @@
-import os
+import dataIO
 import numpy as np
-
-from sklearn.externals import joblib
 from sklearn import preprocessing
 from sklearn.cluster import KMeans
 
-import dataIO, SVM
+from tmp import SVM
+
 
 def dataPreprocessingForAll(mData):
     mX = {}
@@ -62,8 +61,8 @@ def transformOnePiceOfData():
     pass
 
 #initial clustering
-def initialClustering():
-    aDataWithCategory = dataIO.getAllDataInArray( )
+def initialClusteringAndBuildCLF():
+    aDataWithCategory = dataIO.getAllDataInArray()
     aFeatures = [
         "CityArea", "Population", "PerCapita",
         "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
@@ -116,7 +115,7 @@ def predictFromCLF(category):
     return label
 
 def main():
-    predict()
+    initialClusteringAndBuildCLF()
 
 if __name__=="__main__":
     main()

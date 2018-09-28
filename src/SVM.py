@@ -1,8 +1,8 @@
-from sklearn import svm
-from sklearn.externals import joblib
 import numpy as np
-import os
-import dataIO
+from sklearn import svm
+
+from tmp import dataIO
+
 
 def doSVM(X, Y):
     clf = svm.SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,

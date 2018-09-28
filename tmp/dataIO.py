@@ -14,7 +14,7 @@ def getAllDataWithCategory(aFeatures = None):
             "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
             "PrjName", "PrjDescription", "PrjURL"
         ]
-
+    os.chdir('..')
     dir = os.getcwd() + os.sep + "dataSet"
     file = "all-data.json"
     sData = retriveAllData(dir, file)
@@ -42,7 +42,7 @@ def getAllDataInArray(aFeatures = None):
             "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
             "PrjName", "PrjDescription", "PrjURL"
         ]
-
+    os.chdir('..')
     dir = os.getcwd() + os.sep + "dataSet"
     file = "all-data.json"
     sData = retriveAllData(dir, file)
@@ -62,6 +62,7 @@ def getFileName(dir, file):
 
 def buildFolder(aFolders=['SmartIndex1']):
     mData = getAllDataWithCategory(aFolders)
+    os.chdir('..')
     dir = os.getcwd().strip(' ') + os.sep + 'dataSet' + os.sep + 'Categories'
     for k in mData.keys():
         mkdir(dir.strip(' ') + os.sep + k.strip(' '))
@@ -117,6 +118,7 @@ def appendStrDatatoJsonFile(strData, jsonFile, jsonFiledir):
     return obj
 
 def getPyObject(strData):
+    os.chdir('..')
     tmpFileDir = os.getcwd() + os.sep + "tmp"
     tmpFile = "tmp.json"
     createFile(tmpFileDir, tmpFile, text=strData, mode='w')
@@ -131,27 +133,45 @@ def retriveAllData(dir, file):
     return str
 
 def getModel(category, sModelType):
-    dir = os.getcwd() + os.sep + 'dataSet' + os.sep + 'Categories' + os.sep + category.strip(' ')
+    os.chdir('..')
+    dir = os.getcwd() + os.sep + 'Models' + os.sep + category.strip(' ')
     file = category.strip(' ') + '-' + sModelType.strip(' ') + ".m"
     modelFileName = getFileName(dir, file)
     model = joblib.load(modelFileName)
     return model
 
 def preserveModel(category, sModelType, model):
-    dir = os.getcwd() + os.sep + 'dataSet' + os.sep + 'Categories' + os.sep + category.strip(' ')
+    os.chdir('..')
+    dir = os.getcwd() + os.sep + 'Models' + os.sep + category.strip(' ')
     file = category.strip(' ') + '-' + sModelType.strip(' ') + ".m"
     modelFileName = getFileName(dir, file)
     joblib.dump(model, modelFileName)
 
-def createCategoryData():
+def initJSONfiles():
+    def initJSONFilesInDir(dirName):
+        aFeatures = [
+            "SmartIndex1"
+        ]
+        mData = getAllDataWithCategory(aFeatures)
+        for k in mData.keys():
+            dir = os.getcwd() + os.sep + 'dataSet' + os.sep + dirName.strip(' ')
+            file = dirName.strip(' ')  + '-' + k.strip(' ') + '-data.json'
+            createFile(dir, file, text="[]")
+        pass
+
+    initJSONFilesInDir("DataWithCategories")
+    initJSONFilesInDir("DataWithLabels")
+    initJSONFilesInDir("DataProcessedWithLabels")
+
+def initFolders():
     aFeatures = [
         "SmartIndex1"
     ]
     mData = getAllDataWithCategory(aFeatures)
-    for k, v in mData.items():
-        dir = os.getcwd() + os.sep + "dataSet"
-        file = k.strip(' ') + '-data.json'
-        createFile(dir, file, text="[]", mode='w')
+    for k in mData.keys():
+        os.chdir('..')
+        dir = os.getcwd() + os.sep + 'Models' + os.sep + k.strip(' ')
+        mkdir(dir)
 
 if __name__ == "__main__":
-    pass
+    initFolders()
