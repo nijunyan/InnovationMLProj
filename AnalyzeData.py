@@ -79,6 +79,7 @@ def initialClustering():
 
     print
 
+
 def predictFromCLF(dir, file):
     clfName = dataIO.getFileName(dir, file)
     clf = joblib.load(clfName)
