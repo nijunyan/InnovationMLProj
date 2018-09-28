@@ -9,17 +9,20 @@ import dataIO, SVM
 
 def dataPreprocessingForAll(mData):
     mX = {}
-    mRangeX = {}
-    for key, value in mData.items():
-        mRangeX[key] = {}
-        mX[key], mRangeX[key]["data_max_"], mRangeX[key]["data_min_"] = dataProcessing(value)
-    return mX, mRangeX
+    mScaler = {}
+    for key, X in mData.items():
+        mScaler[key] = {}
+        mX[key], mScaler[key] = dataProcessing(key, X)
+    return mX, mScaler
 
-def dataProcessing(data):
-    original_X = np.array(data)
-    min_max_scaler = preprocessing.MinMaxScaler()
-    X = min_max_scaler.fit_transform(original_X)
-    return X, min_max_scaler.data_max_, min_max_scaler.data_min_
+def dataProcessing(key, X):
+    originalX = np.array(X)
+    scaler = preprocessing.StandardScaler()
+    X = scaler.fit_transform(originalX)
+
+    dataIO.preserveModel(key, 'scaler', scaler)
+
+    return X, scaler
 
 def doClustering(X):
     if X.shape[0] >= 3:
@@ -48,15 +51,11 @@ def doAnalyzing(mX, aDtaWithCategory):
 
 def doTraining(mMarkedX):
     for key, X in mMarkedX.items():
-        doSVM(X, mMarkedX[key][:, -1], key)
+        doSVM(X[:,0:-1], mMarkedX[key][:, -1], key)
 
 def doSVM(X, Y, key):
     clf = SVM.doSVM(X, Y)
-    dir = os.getcwd().strip(' ') + os.sep + 'dataSet' + os.sep + 'Categories' + os.sep + key.strip()
-    file = key.strip(' ') + ".m"
-    dataIO.createFile(dir, file)
-    clfFileName = dataIO.getFileName(dir, file)
-    joblib.dump(clf, clfFileName)
+    dataIO.preserveModel(key, 'clf', clf)
     pass
 
 def transformOnePiceOfData():
@@ -71,7 +70,7 @@ def initialClustering():
     ]
     aDataWithCategoryForClustering = dataIO.getAllDataInArray(aFeatures)
 
-    mNewX, mRangeX = dataPreprocessingForAll(aDataWithCategoryForClustering)
+    mNewX, mScaler = dataPreprocessingForAll(aDataWithCategoryForClustering)
 
     mMarkedX, mClusters, mDataWithLabels = doAnalyzing(mNewX, aDataWithCategory)
 
@@ -79,10 +78,14 @@ def initialClustering():
 
     print
 
+def predict():
+    category = 'Traffic_Time_Index'
+    predictFromCLF(category)
 
-def predictFromCLF(dir, file):
-    clfName = dataIO.getFileName(dir, file)
-    clf = joblib.load(clfName)
+def predictFromCLF(category):
+    clf = dataIO.getModel(category, 'clf')
+    scaler = dataIO.getModel(category, 'scaler')
+
     aFeatures = [
         "CityArea", "Population", "PerCapita",
         "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
@@ -107,14 +110,13 @@ def predictFromCLF(dir, file):
               }'''.strip('"')
 
     oData = dataIO.getPyObject(sData)
-    aData = dataIO.makeUpDataInArray(oData, aFeatures)
-    print(clf.predit(aData))
+    aData = [(dataIO.makeUpDataInArray(oData, aFeatures))]
+    aTransformedData = scaler.transform(aData)
+    label = clf.predict(aTransformedData)
+    return label
 
 def main():
-    # initialClustering()
-    dir = os.getcwd() + os.sep + 'dataSet' + os.sep + 'Categories' + os.sep + 'Traffic_Time_Index'
-    file = 'Traffic_Time_Index.m'
-    predictFromCLF(dir, file)
+    predict()
 
 if __name__=="__main__":
     main()

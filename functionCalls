@@ -34,3 +34,6 @@
                                 "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
                             ]
                             getAllDataWithCategory(aFeatures)
+
+#getModel(category, sModelType)
+                            getModel('Traffic_Time_Index', 'scaler')
