@@ -130,12 +130,15 @@ def commitData(sList):
         DataIO.appendStrData(sData, "tmpAllData", sCategory)
 
         aCategoryData = DataIO.getData("DataWithLabels", sCategory)
+        oCluster = DataIO.getData("Cluster", sCategory)[int(label[0])]
 
         aOneRetData = [aCategoryData[j] for j in range(len(aCategoryData)) if aCategoryData[j]["Label"] == sLabel ]
-        oRetData = {}
         oData["ID"] = DataIO.getTmpAllDataID()
         oData["Label"] = sLabel
+
+        oRetData = {}
         oRetData["queryData"] = oData
+        oRetData["cluster"] = oCluster
         oRetData["neighbourCnt"] = len(aOneRetData)
         oRetData["neighbourData"] = aOneRetData
         aRetData.append(oRetData)
@@ -143,6 +146,7 @@ def commitData(sList):
     return DataIO.getStrFromJSON(aRetData)
 
 def main():
+    initialClusteringAndBuildCLF()
     sData = '''[{
         "ID": "4724",
         "City": "David",

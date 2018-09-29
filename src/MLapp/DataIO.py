@@ -36,6 +36,13 @@ def getAllOriginalData():
     aData = json.loads(sData)
     return json.dumps(aData, indent=2)
 
+def getOneOriginalData():
+    dir = os.path.abspath('../..') + os.sep + "dataSet"
+    file = "all-data.json"
+    sData = readFileContent(dir, file)
+    aData = json.loads(sData)
+    return json.dumps(aData[0], indent=2)
+
 def makeUpDataInArray(oData, aFeatures):
     aTargetData = []
     for i in range(len(aFeatures)):
@@ -171,10 +178,12 @@ def getData(sFileLocation, sCategory):
     if sFileLocation == "DataWithLabels":
         dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "DataWithLabels" + os.sep + sCategory.strip(' ')
         file = "DataWithLabels-" + sCategory.strip(' ') + "-data.json"
-        sData = readFileContent(dir, file)
-        return json.loads(sData)
+    elif sFileLocation == "Cluster":
+        dir = os.path.abspath('../..') + os.sep + "Models" + os.sep + sCategory.strip(' ')
+        file = sCategory.strip(' ') + "-cluster.json"
 
-    return []
+    sData = readFileContent(dir, file)
+    return json.loads(sData)
 
 def getPyObject(sData):
     tmpFileDir = os.path.abspath('../..') + os.sep + "tmp"
@@ -244,7 +253,7 @@ def preserveProcessedData(mMarkedX, mDataWithLabels, mDataWithCategories, mClust
             "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
         ]
         dir = os.path.abspath('../..') + os.sep + 'Models' + os.sep + k.strip(' ')
-        file = k.strip(' ') + '-cluser.json'
+        file = k.strip(' ') + '-cluster.json'
         preserveMData(dir, file, mClusters[k], aFeatures)
 
     pass

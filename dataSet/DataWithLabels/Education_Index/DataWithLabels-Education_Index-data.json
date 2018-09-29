@@ -15,7 +15,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "28",
@@ -33,7 +33,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "29",
@@ -51,7 +51,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "33",
@@ -69,7 +69,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "46",
@@ -87,7 +87,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "47",
@@ -105,7 +105,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "48",
@@ -123,7 +123,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "49",
@@ -141,7 +141,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "51",
@@ -159,7 +159,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "136",
@@ -177,7 +177,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "158",
@@ -195,7 +195,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "159",
@@ -213,7 +213,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "163",
@@ -231,7 +231,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "176",
@@ -249,7 +249,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "177",
@@ -267,7 +267,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "178",
@@ -285,7 +285,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "179",
@@ -303,7 +303,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "181",
@@ -321,7 +321,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "270",
@@ -339,7 +339,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "292",
@@ -357,7 +357,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "293",
@@ -375,7 +375,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "297",
@@ -393,7 +393,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "310",
@@ -411,7 +411,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "311",
@@ -429,7 +429,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "312",
@@ -465,7 +465,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "315",
@@ -483,7 +483,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "404",
@@ -501,7 +501,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "426",
@@ -663,7 +663,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "560",
@@ -825,7 +825,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "694",
@@ -987,7 +987,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "828",
@@ -1473,7 +1473,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1232",
@@ -1491,7 +1491,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1233",
@@ -1509,7 +1509,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1237",
@@ -1527,7 +1527,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1250",
@@ -1545,7 +1545,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1251",
@@ -1563,7 +1563,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1252",
@@ -1581,7 +1581,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1253",
@@ -1599,7 +1599,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1255",
@@ -1617,7 +1617,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1344",
@@ -1635,7 +1635,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1366",
@@ -1653,7 +1653,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1367",
@@ -1671,7 +1671,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1371",
@@ -1689,7 +1689,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1384",
@@ -1707,7 +1707,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1385",
@@ -1725,7 +1725,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1386",
@@ -1743,7 +1743,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1387",
@@ -1761,7 +1761,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1389",
@@ -1779,7 +1779,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1478",
@@ -1797,7 +1797,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1500",
@@ -1815,7 +1815,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1501",
@@ -1833,7 +1833,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1505",
@@ -1851,7 +1851,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1518",
@@ -1869,7 +1869,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1519",
@@ -1887,7 +1887,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1520",
@@ -1905,7 +1905,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1521",
@@ -1923,7 +1923,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1523",
@@ -1941,7 +1941,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1612",
@@ -1959,7 +1959,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1634",
@@ -1977,7 +1977,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1635",
@@ -2013,7 +2013,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1652",
@@ -2031,7 +2031,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1653",
@@ -2103,7 +2103,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1746",
@@ -2121,7 +2121,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1768",
@@ -2283,7 +2283,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1902",
@@ -2445,7 +2445,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2036",
@@ -2607,7 +2607,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2170",
@@ -2769,7 +2769,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2304",
@@ -2931,7 +2931,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2440",
@@ -2949,7 +2949,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2441",
@@ -2967,7 +2967,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2445",
@@ -2985,7 +2985,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2458",
@@ -3003,7 +3003,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2459",
@@ -3021,7 +3021,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2460",
@@ -3039,7 +3039,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2461",
@@ -3057,7 +3057,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2463",
@@ -3075,7 +3075,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2552",
@@ -3093,7 +3093,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2574",
@@ -3111,7 +3111,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2575",
@@ -3129,7 +3129,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2579",
@@ -3147,7 +3147,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2592",
@@ -3165,7 +3165,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2593",
@@ -3183,7 +3183,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2594",
@@ -3201,7 +3201,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2595",
@@ -3219,7 +3219,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2597",
@@ -3237,7 +3237,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2686",
@@ -3255,7 +3255,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2708",
@@ -3273,7 +3273,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2709",
@@ -3291,7 +3291,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2713",
@@ -3309,7 +3309,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2726",
@@ -3327,7 +3327,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2727",
@@ -3345,7 +3345,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2728",
@@ -3363,7 +3363,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2729",
@@ -3381,7 +3381,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2731",
@@ -3399,7 +3399,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2820",
@@ -3417,7 +3417,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2842",
@@ -3435,7 +3435,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2843",
@@ -3453,7 +3453,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2847",
@@ -3471,7 +3471,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2860",
@@ -3489,7 +3489,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2861",
@@ -3507,7 +3507,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2862",
@@ -3525,7 +3525,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2863",
@@ -3543,7 +3543,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2865",
@@ -3561,7 +3561,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2954",
@@ -3579,7 +3579,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2976",
@@ -3597,7 +3597,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2977",
@@ -3615,7 +3615,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2981",
@@ -3633,7 +3633,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2994",
@@ -3651,7 +3651,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2995",
@@ -3669,7 +3669,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2996",
@@ -3705,7 +3705,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2999",
@@ -3723,7 +3723,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3088",
@@ -3741,7 +3741,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3110",
@@ -3795,7 +3795,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3128",
@@ -3813,7 +3813,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3129",
@@ -3903,7 +3903,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3244",
@@ -4065,7 +4065,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3378",
@@ -4227,7 +4227,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3512",
@@ -4389,7 +4389,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3648",
@@ -4407,7 +4407,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3649",
@@ -4425,7 +4425,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3653",
@@ -4443,7 +4443,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3666",
@@ -4461,7 +4461,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3667",
@@ -4479,7 +4479,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3668",
@@ -4497,7 +4497,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3669",
@@ -4515,7 +4515,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3671",
@@ -4533,7 +4533,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3760",
@@ -4551,7 +4551,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3782",
@@ -4569,7 +4569,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3783",
@@ -4587,7 +4587,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3787",
@@ -4605,7 +4605,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3800",
@@ -4623,7 +4623,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3801",
@@ -4641,7 +4641,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3802",
@@ -4659,7 +4659,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3803",
@@ -4677,7 +4677,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3805",
@@ -4695,7 +4695,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3894",
@@ -4713,7 +4713,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3916",
@@ -4731,7 +4731,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3917",
@@ -4749,7 +4749,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3921",
@@ -4767,7 +4767,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3934",
@@ -4785,7 +4785,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3935",
@@ -4803,7 +4803,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3936",
@@ -4821,7 +4821,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3937",
@@ -4839,7 +4839,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3939",
@@ -4857,7 +4857,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4028",
@@ -4875,7 +4875,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4050",
@@ -4893,7 +4893,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4051",
@@ -4911,7 +4911,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4055",
@@ -4929,7 +4929,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4068",
@@ -4947,7 +4947,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4069",
@@ -4965,7 +4965,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4070",
@@ -4983,7 +4983,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4071",
@@ -5001,7 +5001,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4073",
@@ -5019,7 +5019,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4162",
@@ -5037,7 +5037,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4184",
@@ -5055,7 +5055,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4185",
@@ -5073,7 +5073,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4189",
@@ -5091,7 +5091,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4202",
@@ -5109,7 +5109,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4203",
@@ -5127,7 +5127,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4204",
@@ -5145,7 +5145,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4205",
@@ -5163,7 +5163,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4207",
@@ -5181,7 +5181,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4296",
@@ -5199,7 +5199,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4318",
@@ -5217,7 +5217,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4319",
@@ -5235,7 +5235,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4323",
@@ -5253,7 +5253,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4336",
@@ -5271,7 +5271,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4337",
@@ -5289,7 +5289,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4338",
@@ -5307,7 +5307,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4339",
@@ -5325,7 +5325,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4341",
@@ -5343,7 +5343,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4430",
@@ -5361,7 +5361,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4452",
@@ -5379,7 +5379,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4453",
@@ -5397,7 +5397,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4457",
@@ -5415,7 +5415,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4470",
@@ -5433,7 +5433,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4471",
@@ -5451,7 +5451,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4472",
@@ -5487,7 +5487,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4475",
@@ -5505,7 +5505,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4564",
@@ -5523,7 +5523,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4586",
@@ -5541,7 +5541,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4587",
@@ -5577,7 +5577,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4604",
@@ -5595,7 +5595,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4605",
@@ -5667,7 +5667,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4698",
@@ -5685,7 +5685,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4720",
@@ -5847,7 +5847,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4856",
@@ -5865,7 +5865,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4857",
@@ -5883,7 +5883,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4861",
@@ -5901,7 +5901,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4874",
@@ -5919,7 +5919,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4875",
@@ -5937,7 +5937,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4876",
@@ -5955,7 +5955,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4877",
@@ -5973,7 +5973,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4879",
@@ -5991,7 +5991,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4968",
@@ -6009,7 +6009,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4990",
@@ -6027,7 +6027,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4991",
@@ -6045,7 +6045,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4995",
@@ -6063,7 +6063,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5008",
@@ -6081,7 +6081,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5009",
@@ -6099,7 +6099,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5010",
@@ -6117,7 +6117,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5011",
@@ -6135,7 +6135,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5013",
@@ -6153,7 +6153,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5102",
@@ -6171,7 +6171,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5124",
@@ -6189,7 +6189,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5125",
@@ -6207,7 +6207,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5129",
@@ -6225,7 +6225,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5142",
@@ -6243,7 +6243,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5143",
@@ -6261,7 +6261,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5144",
@@ -6279,7 +6279,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5145",
@@ -6297,7 +6297,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5147",
@@ -6315,7 +6315,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5236",
@@ -6333,7 +6333,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5258",
@@ -6351,7 +6351,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5259",
@@ -6369,7 +6369,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5263",
@@ -6387,7 +6387,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5276",
@@ -6405,7 +6405,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5277",
@@ -6423,7 +6423,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5278",
@@ -6441,7 +6441,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5279",
@@ -6459,7 +6459,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5281",
@@ -6477,7 +6477,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5370",
@@ -6495,7 +6495,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5392",
@@ -6513,7 +6513,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5393",
@@ -6531,7 +6531,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5397",
@@ -6549,7 +6549,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5410",
@@ -6567,7 +6567,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5411",
@@ -6585,7 +6585,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5412",
@@ -6603,7 +6603,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5413",
@@ -6621,7 +6621,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5415",
@@ -6639,7 +6639,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5504",
@@ -6657,7 +6657,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5526",
@@ -6675,7 +6675,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5527",
@@ -6693,7 +6693,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5531",
@@ -6711,7 +6711,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5544",
@@ -6729,7 +6729,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5545",
@@ -6747,7 +6747,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5546",
@@ -6765,7 +6765,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5547",
@@ -6783,7 +6783,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5549",
@@ -6801,7 +6801,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5638",
@@ -6819,7 +6819,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5660",
@@ -6837,7 +6837,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5661",
@@ -6855,7 +6855,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5665",
@@ -6873,7 +6873,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5678",
@@ -6891,7 +6891,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5679",
@@ -6909,7 +6909,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5680",
@@ -6927,7 +6927,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5681",
@@ -6945,7 +6945,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5683",
@@ -6963,7 +6963,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5772",
@@ -6981,7 +6981,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5794",
@@ -6999,7 +6999,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5795",
@@ -7017,7 +7017,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5799",
@@ -7035,7 +7035,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5812",
@@ -7053,7 +7053,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5813",
@@ -7071,7 +7071,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5814",
@@ -7089,7 +7089,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5815",
@@ -7107,7 +7107,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5817",
@@ -7125,7 +7125,7 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5906",
@@ -7143,7 +7143,7 @@
     "PrjName": "We have this platform built to all those in the areas of \"Digital School\" and \"Digital Media\" are interested in a central, national point of contact to offer, on which it is to exchange and cooperate can. In addition, we would like to inform you about the use of IT in the Cologne educational landscape.",
     "PrjDescription": "Digital Education Platform",
     "PrjURL": "https://digitaleducation.cologne/start",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5928",
@@ -7161,7 +7161,7 @@
     "PrjName": "HamburgService - Kita-Infosystem",
     "PrjDescription": "Kindergarten Information System",
     "PrjURL": "https://gateway.hamburg.de/hamburggateway/fvp/fv/BSF/KitaInfo/wfKitaSuche.aspx?sid=95",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5929",
@@ -7179,7 +7179,7 @@
     "PrjName": "The HOOU is a cross-university project, which is supported by the network of the six state-owned Hamburg universities * with the UKE, the Department of Science, Research and Equality, the Senate Chancellery and the Multimedia Kontor Hamburg (MMKH).",
     "PrjDescription": "Hamburg Open Online University",
     "PrjURL": "https://www.hoou.de/p/konzept-hamburg-open-online-university-hoou/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5933",
@@ -7197,7 +7197,7 @@
     "PrjName": "Knowledge transfer at all levels Tutech combines science, business and society We know what is important in technology and knowledge transfer at the interface between university and industry. We speak both languages \u00e2\u20ac\u2039\u00e2\u20ac\u2039- those of science and those of companies - and have been successfully combining entrepreneurial and scientific potential for 25 years. Our mission and goal is to create sustainable value through the application of new research results and inventions, and we do so by acting as a consultant, broker, initiator and coordinator at national and international levels. Tutech is a privately organized subsidiary of the Technical University of Hamburg and the Free and Hanseatic City of Hamburg. Together with our sister company Hamburg Innovation , we connect all public law schools of the city as well as numerous research institutions of the Hamburg Metropolitan Region.",
     "PrjDescription": "Tutech",
     "PrjURL": "https://tutech.de/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5946",
@@ -7215,7 +7215,7 @@
     "PrjName": "CityScopes are interactive, digital city models that analyze urban relationships and simulate development scenarios.They typically consist of model tables and \"data blocks\" on which information is projected. In this way, complex city data can be illustrated simply and transparently for concrete tasks and experimentally carried out as \"what if\" scenarios. CityScopes are particularly suitable for group discussions and participation workshops in which both professionals as well as laymen can participate. Multifunctional relationships can be displayed and changed quickly, with CityScopes providing fast visual feedback on potential impacts.",
     "PrjDescription": "CityScope",
     "PrjURL": "https://www.hcu-hamburg.de/en/research/citysciencelab/research/cityscope/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5947",
@@ -7233,7 +7233,7 @@
     "PrjName": "The CityScienceLab of HafenCity University Hamburg is exploring the transformation of cities in the context of digitization with partners from civil society, politics, business and science. It pursues a decidedly interdisciplinary and transdisciplinary perspective by linking technical issues with social and cultural developments (more under Team ). To make cities healthier, more liveable, and more efficient in the future, CityScienceLab uses urban data to develop new tools and digital city models (CityScopes). These new tools allow the visualization and simulation of complex urban developments and support urban actors in the decision-making process (more under Research and Teaching ).The city of Hamburg is the \"Living Lab\", in which urban change processes are comprehensively researched and developed right down to concrete applications. In addition, the CityScienceLab works in close cooperation with the City Science Group of the MIT Media Lab (Cambridge / USA).",
     "PrjDescription": "0",
     "PrjURL": "https://www.hcu-hamburg.de/research/csl/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5948",
@@ -7251,7 +7251,7 @@
     "PrjName": "Hamburg Open Online University Los geht's! ",
     "PrjDescription": "Hamburg Open University",
     "PrjURL": "https://www.hoou.de/",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5949",
@@ -7269,7 +7269,7 @@
     "PrjName": "The learning portal of the Center for Education and Training (ZAF) is aimed at the employees of the Free and Hanseatic City of Hamburg. The learning portal of the Center for Education and Training (ZAF) informs you about the continuing education offers of the ZAF and enables you to register online the events. Both the use of the platform, as well as the registration is free of charge for you",
     "PrjDescription": "Learning Portal",
     "PrjURL": "https://gateway.hamburg.de/HamburgGateway/Service/Entry/48",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5951",
@@ -7287,6 +7287,6 @@
     "PrjName": "Start into the next Generation' is a project run by the Hamburg authority for schools and training. It was launched two years ago with the aim of improving learning outcomes by using technology in the classroom. Six pilot schools were selected to take part in the project with over 90 classes and 2,000 students involved. Each school was provided with a secure wireless network but was free to choose its pedagogical approach to using the technology. Students were asked to bring a laptop, tablet or phone to school (in 90% of cases they chose a smartphone). The schools were supported with training and with advice on legal and data protection issues (all parents were given a document to sign explaining what the devices would be used for). The Hamburg schools authority also provided a learning platform which gives access to digital materials and allows students to communicate, submit homework and complete self-assessments.",
     "PrjDescription": "Start into the next Generation",
     "PrjURL": "https://www.schooleducationgateway.eu/en/pub/latest/news/smart-learning--bring-your-ow.htm",
-    "Label": "0"
+    "Label": "1"
   }
 ]
