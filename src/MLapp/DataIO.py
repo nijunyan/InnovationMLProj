@@ -205,6 +205,23 @@ def retriveAllData(dir, file):
     f.close()
     return str
 
+def retriveAllClusters():
+    aFeatures = [
+        "SmartIndex1"
+    ]
+    mData = getAllDataWithCategory(aFeatures)
+    mClusters = {}
+    for key in mData.keys():
+        dir = os.path.abspath('../..') + os.sep + 'Models'+ os.sep + key.strip(' ')
+        file = key.strip(' ') + "-cluster.json"
+        mClusters[key.strip(' ')] = {}
+        sData = readFileContent(dir, file)
+        aData = json.loads(sData)
+        for i in range(len(aData)):
+            sLabel = str(i)
+            mClusters[key.strip(' ')][sLabel] = aData[i]
+    return json.dumps(mClusters, indent=2)
+
 def getModel(category, sModelType):
     dir = os.path.abspath('../..') + os.sep + 'Models' + os.sep + category.strip(' ')
     file = category.strip(' ') + '-' + sModelType.strip(' ') + ".m"
@@ -314,4 +331,6 @@ def initFolders(dir):
         mkdir(cdir)
 
 if __name__ == "__main__":
-    appendStrData("", "importTmpAllData", None)
+    # appendStrData("", "importTmpAllData", None)
+    j = retriveAllClusters()
+    pass

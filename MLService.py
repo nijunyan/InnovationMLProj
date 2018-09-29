@@ -34,6 +34,11 @@ def retriveOneData():
     sData = DataIO.getOneOriginalData()
     return sData
 
+@app.route('/retriveAllClustersData')
+def retriveAllClustersData():
+    sData = DataIO.retriveAllClusters()
+    return sData
+
 @app.route('/commitData', methods = ['POST'])
 def commitData():
     if request.headers['Content-Type'] == 'application/json':
