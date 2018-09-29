@@ -111,9 +111,17 @@ def appendStrDatatoJsonFile(strData, jsonFiledir, jsonFile, beginID = 0):
     if isinstance(aNewData, dict):
         aNewData = [aNewData]
 
+    aFeatures = [
+        "ID", "City", "Country", "IndexGrp", "CityArea", "Population", "PerCapita",
+        "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
+        "PrjName", "PrjDescription", "PrjURL"
+    ]
     for i in range(len(aNewData)):
+        oData = {}
         aNewData[i]["ID"] = beginID + len(obj) + i + 1
-        obj.append(aNewData[i])
+        for j in range(len(aFeatures)):
+            oData[aFeatures[j]] = aNewData[i][aFeatures[j]]
+        obj.append(oData)
 
     str = json.dumps(obj, indent=2)
     createFile(jsonFiledir, jsonFile, str, mode='w')
@@ -135,12 +143,14 @@ def appendStrData(strData, sFileLocation, sCategory):
     elif sFileLocation == "DataWithLabels":
         dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp" + os.sep + sCategory.strip(' ')
         file = "tmp-DataWithLabels-" + sCategory.strip(' ') + "-data.json"
-    else:
+    elif sFileLocation == "tmpAllData":
         dir = os.path.abspath('../..') + os.sep + "dataSet"
         file = "all-data.json"
         beginID = getTmpAllDataID(dir, file)
         dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp"
         file = "tmp-allData.json"
+    else: # merge tmpData to all-data.json
+        pass
 
     appendStrDatatoJsonFile(strData, dir, file, beginID)
 

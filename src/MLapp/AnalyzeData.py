@@ -85,7 +85,7 @@ def predict():
     category = 'Traffic_Time_Index'
     predictFromCLF(category)
 
-def predictFromCLF(category):
+def predictFromCLF(category, sData):
     clf = DataIO.getModel(category, 'clf')
     scaler = DataIO.getModel(category, 'scaler')
 
@@ -93,24 +93,24 @@ def predictFromCLF(category):
         "CityArea", "Population", "PerCapita",
         "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
     ]
-
-    sData = '''{
-                "ID": 3,
-                "City": "Stuttgart",
-                "Country": "Germany",
-                "IndexGrp": "Real_time_traveller_Information",
-                "CityArea": 297.36,
-                "Population": 623738,
-                "PerCapita": 65262,
-                "SmartIndex1": "Traffic_Time_Index",
-                "SmartIndexValue": 32.05,
-                "PrjDuration": 7,
-                "PrjCost": 8,
-                "PrjROI": 7,
-                "PrjName": "The moveBW project offers drivers an attractive option that links motorized personal transport with alternative modes of transportation. An easy-to-use mobility assistant on your smartphone helps you choose a mode of transportation and reliably guides you to your destination. Users of the mobility assistant can book different types of transportation â€“ yet receive just one bill that lists every mode booked during the past month. To plan intermodal routes, the mobility assistant considers services such as public transportation, car sharing, bike sharing, and parking-space management as well as information on traffic jams and construction areas. MoveBW encourages people in the greater Stuttgart area to efficiently utilize all modes of transportation, which eases congestion. This project also aids local authorities in optimizing regional traffic flows.MoveBW is overseen by a consortium of six companies, led by Robert Bosch GmbH: transportation solutions company highQ, parking-space operator Parkraumgesellschaft Baden-WÃ¼rttemberg, TraffiCon GmbH, PRISMA Solutions GmbH, and MRK Management Consultants. The moveBW project began in mid-2016 and will end in late 2017.",
-                "PrjDescription": "moveBW - mobility assistant for intermodal information, planning routes, and buying tickets",
-                "PrjURL": "https://hyp.is/0W2vcK_8Eei-2AfXYJ_wFw"
-              }'''.strip('"')
+    #
+    # sData = '''{
+    #             "ID": 3,
+    #             "City": "Stuttgart",
+    #             "Country": "Germany",
+    #             "IndexGrp": "Real_time_traveller_Information",
+    #             "CityArea": 297.36,
+    #             "Population": 623738,
+    #             "PerCapita": 65262,
+    #             "SmartIndex1": "Traffic_Time_Index",
+    #             "SmartIndexValue": 32.05,
+    #             "PrjDuration": 7,
+    #             "PrjCost": 8,
+    #             "PrjROI": 7,
+    #             "PrjName": "The moveBW project offers drivers an attractive option that links motorized personal transport with alternative modes of transportation. An easy-to-use mobility assistant on your smartphone helps you choose a mode of transportation and reliably guides you to your destination. Users of the mobility assistant can book different types of transportation â€“ yet receive just one bill that lists every mode booked during the past month. To plan intermodal routes, the mobility assistant considers services such as public transportation, car sharing, bike sharing, and parking-space management as well as information on traffic jams and construction areas. MoveBW encourages people in the greater Stuttgart area to efficiently utilize all modes of transportation, which eases congestion. This project also aids local authorities in optimizing regional traffic flows.MoveBW is overseen by a consortium of six companies, led by Robert Bosch GmbH: transportation solutions company highQ, parking-space operator Parkraumgesellschaft Baden-WÃ¼rttemberg, TraffiCon GmbH, PRISMA Solutions GmbH, and MRK Management Consultants. The moveBW project began in mid-2016 and will end in late 2017.",
+    #             "PrjDescription": "moveBW - mobility assistant for intermodal information, planning routes, and buying tickets",
+    #             "PrjURL": "https://hyp.is/0W2vcK_8Eei-2AfXYJ_wFw"
+    #           }'''.strip('"')
 
     oData = DataIO.getPyObject(sData)
     aData = [(DataIO.makeUpDataInArray(oData, aFeatures))]
@@ -124,11 +124,11 @@ def commitData(sList):
     aRetData = []
     for i in range(len(aData)):
         sCategory = aData[i]["SmartIndex1"]
-        label = predictFromCLF(sCategory)
-        sLabel = str(int(label[0]))
         oData = aData[i]
-        strData = DataIO.getStrFromJSON(oData)
-        DataIO.appendStrData(strData, "allData", sCategory)
+        sData = DataIO.getStrFromJSON(oData)
+        label = predictFromCLF(sCategory, sData)
+        sLabel = str(int(label[0]))
+        DataIO.appendStrData(sData, "tmpAllData", sCategory)
 
         aCategoryData = DataIO.getData("DataWithLabels", sCategory)
 
@@ -143,25 +143,26 @@ def commitData(sList):
     return DataIO.getStrFromJSON(aRetData)
 
 def main():
-    strData = '''[{
-                    "ID": 3,
-                    "City": "Stuttgart",
-                    "Country": "Germany",
-                    "IndexGrp": "Real_time_traveller_Information",
-                    "CityArea": 297.36,
-                    "Population": 623738,
-                    "PerCapita": 65262,
-                    "SmartIndex1": "Traffic_Time_Index",
-                    "SmartIndexValue": 32.05,
-                    "PrjDuration": 7,
-                    "PrjCost": 8,
-                    "PrjROI": 7,
-                    "PrjName": "The moveBW project offers drivers an attractive option that links motorized personal transport with alternative modes of transportation. An easy-to-use mobility assistant on your smartphone helps you choose a mode of transportation and reliably guides you to your destination. Users of the mobility assistant can book different types of transportation â€“ yet receive just one bill that lists every mode booked during the past month. To plan intermodal routes, the mobility assistant considers services such as public transportation, car sharing, bike sharing, and parking-space management as well as information on traffic jams and construction areas. MoveBW encourages people in the greater Stuttgart area to efficiently utilize all modes of transportation, which eases congestion. This project also aids local authorities in optimizing regional traffic flows.MoveBW is overseen by a consortium of six companies, led by Robert Bosch GmbH: transportation solutions company highQ, parking-space operator Parkraumgesellschaft Baden-WÃ¼rttemberg, TraffiCon GmbH, PRISMA Solutions GmbH, and MRK Management Consultants. The moveBW project began in mid-2016 and will end in late 2017.",
-                    "PrjDescription": "moveBW - mobility assistant for intermodal information, planning routes, and buying tickets",
-                    "PrjURL": "https://hyp.is/0W2vcK_8Eei-2AfXYJ_wFw"
-                  }]'''.strip('"')
+    sData = '''[{
+        "ID": "4724",
+        "City": "David",
+        "Country": "Panama",
+        "IndexGrp": " Parking Management",
+        "CityArea": "1004.4426",
+        "Population": "2423851.85",
+        "PerCapita": "92053.29",
+        "SmartIndex1": " Traffic_Time_Index",
+        "SmartIndexValue": "41.4827",
+        "PrjDuration": "7.6",
+        "PrjCost": "7.6",
+        "PrjROI": "6.6",
+        "PrjName": "Fast and easy to shop or to go to the city center? This works very easy in Hamburg. With the Park and Joy app, drivers can quickly find, book and pay for free parking spaces - all via smartphone. Parking has never been so much fun!",
+        "PrjDescription": "Park and Joy",
+        "PrjURL": "https://www.parkandjoy.de/hamburg",
+        "Label": "1"
+      }]'''.strip('"')
 
-    s = commitData(strData)
+    s = commitData(sData)
     pass
 if __name__=="__main__":
     main()
