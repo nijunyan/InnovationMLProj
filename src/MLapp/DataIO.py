@@ -29,6 +29,13 @@ def getAllDataWithCategory(aFeatures = None, dir = None):
 
     return mData
 
+def getAllOriginalData():
+    dir = os.path.abspath('../..') + os.sep + "dataSet"
+    file = "all-data.json"
+    sData = readFileContent(dir, file)
+    aData = json.loads(sData)
+    return json.dumps(aData, indent=2)
+
 def makeUpDataInArray(oData, aFeatures):
     aTargetData = []
     for i in range(len(aFeatures)):
@@ -102,11 +109,11 @@ def writeFileWithContent(dir, file, content):
     f.write(content)
     f.close()
 
-def appendStrDatatoJsonFile(strData, jsonFiledir, jsonFile, beginID = 0):
+def appendStrDatatoJsonFile(sData, jsonFiledir, jsonFile, beginID = 0):
     sJsonFileData = readFileContent(jsonFiledir, jsonFile)
     obj = json.loads(sJsonFileData)
 
-    aNewData = getPyObject(strData)
+    aNewData = getPyObject(sData)
 
     if isinstance(aNewData, dict):
         aNewData = [aNewData]
@@ -116,9 +123,10 @@ def appendStrDatatoJsonFile(strData, jsonFiledir, jsonFile, beginID = 0):
         "SmartIndex1", "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI",
         "PrjName", "PrjDescription", "PrjURL"
     ]
+    iSize = len(obj)
     for i in range(len(aNewData)):
         oData = {}
-        aNewData[i]["ID"] = beginID + len(obj) + i + 1
+        aNewData[i]["ID"] = beginID + iSize + i + 1
         for j in range(len(aFeatures)):
             oData[aFeatures[j]] = aNewData[i][aFeatures[j]]
         obj.append(oData)
@@ -136,7 +144,7 @@ def getTmpAllDataID(dir=None, file=None):
     id = len(j)
     return id
 
-def appendStrData(strData, sFileLocation, sCategory):
+def appendStrData(sData, sFileLocation, sCategory):
     if sFileLocation == "DataWithCategories":
         dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp" + os.sep + sCategory.strip(' ')
         file = "tmp-DataWithCategories-" + sCategory.strip(' ') + "-data.json"
@@ -149,24 +157,29 @@ def appendStrData(strData, sFileLocation, sCategory):
         beginID = getTmpAllDataID(dir, file)
         dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp"
         file = "tmp-allData.json"
-    else: # merge tmpData to all-data.json
-        pass
+    elif sFileLocation == "importTmpAllData": # merge tmpData to all-data.json
+        dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "tmp"
+        file = "tmp-allData.json"
+        sData = readFileContent(dir, file)
+        dir = os.path.abspath('../..') + os.sep + "dataSet"
+        file = "all-data.json"
+        beginID = 0
 
-    appendStrDatatoJsonFile(strData, dir, file, beginID)
+    appendStrDatatoJsonFile(sData, dir, file, beginID)
 
 def getData(sFileLocation, sCategory):
     if sFileLocation == "DataWithLabels":
         dir = os.path.abspath('../..') + os.sep + "dataSet" + os.sep + "DataWithLabels" + os.sep + sCategory.strip(' ')
         file = "DataWithLabels-" + sCategory.strip(' ') + "-data.json"
-        strData = readFileContent(dir, file)
-        return json.loads(strData)
+        sData = readFileContent(dir, file)
+        return json.loads(sData)
 
     return []
 
-def getPyObject(strData):
+def getPyObject(sData):
     tmpFileDir = os.path.abspath('../..') + os.sep + "tmp"
     tmpFile = "tmp.json"
-    createFile(tmpFileDir, tmpFile, text=strData, mode='w')
+    createFile(tmpFileDir, tmpFile, text=sData, mode='w')
     nstr = readFileContent(tmpFileDir, tmpFile)
     newObj = json.loads(nstr)
     return newObj
@@ -290,4 +303,4 @@ def initFolders(dir):
         mkdir(cdir)
 
 if __name__ == "__main__":
-    checkJSON()
+    appendStrData("", "importTmpAllData", None)

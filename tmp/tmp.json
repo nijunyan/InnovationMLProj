@@ -1,16 +1,18 @@
 {
-  "City": "Mexico City",
-  "Country": "Mexico",
+  "ID": "1135",
+  "City": "Wuhan",
+  "Country": "China",
   "IndexGrp": " smart_living",
-  "CityArea": "643.932",
-  "Population": "577840.5",
-  "PerCapita": "39600",
+  "CityArea": "1359.412",
+  "Population": "1219885.5",
+  "PerCapita": "83600",
   "SmartIndex1": " Public_space_management",
   "SmartIndexValue": "0",
-  "PrjDuration": "7.9",
-  "PrjCost": "6.9",
-  "PrjROI": "5.9",
+  "PrjDuration": "8.9",
+  "PrjCost": "7.9",
+  "PrjROI": "6.9",
   "PrjName": "0",
-  "PrjDescription": "Download The Citynomadi app and start a guided tour to Smart Kalasatama, The Smart City district of Helsinki.",
-  "PrjURL": "https://forumvirium.fi/en/"
+  "PrjDescription": "You can get involved by applying in a Pilot Group for the Open Call and become a new pilot city. Cities from all over the world are welcome to apply but only cities from the EU and H2020 associated countries are eligible for funding.",
+  "PrjURL": "https://forumvirium.fi/en/",
+  "Label": "0"
 }

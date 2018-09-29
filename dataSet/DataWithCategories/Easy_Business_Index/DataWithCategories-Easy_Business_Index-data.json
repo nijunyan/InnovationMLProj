@@ -10708,5 +10708,22 @@
     "PrjName": "Our web app* is the personal assistant for anyone wanting to live and work in Berlin. After answering just a few simple questions, you will receive a customised to-do list to help make your arrival in the German capital easier.Whether you are looking for work, planning to set up or relocate a company, or wanting to embark on training or study courses, the web app will be able to help you by providing specific tips and information along with the details of various contact partners, thereby making the first steps towards this new part of your life that bit easier.",
     "PrjDescription": "Welcome to Berlin App",
     "PrjURL": "https://app.welcome.berlin/about"
+  },
+  {
+    "ID": 6037,
+    "City": "Shanghai",
+    "Country": "China",
+    "IndexGrp": "SH Fostering_Entrepruenership",
+    "CityArea": "755.22",
+    "Population": "1822445",
+    "PerCapita": "69213",
+    "SmartIndex1": " Easy_Business_Index",
+    "SmartIndexValue": "20",
+    "PrjDuration": "7",
+    "PrjCost": "5",
+    "PrjROI": "7",
+    "PrjName": "SH SAP",
+    "PrjDescription": "Social Impact Lab",
+    "PrjURL": "https://sh.com"
   }
 ]

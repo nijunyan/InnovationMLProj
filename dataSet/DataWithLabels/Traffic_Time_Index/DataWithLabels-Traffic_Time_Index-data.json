@@ -5019,7 +5019,7 @@
     "PrjName": "With evopark, the entire parking process runs without cash or contact. The parking time is recorded digitally. Billing is convenient and collected at the end of the month. Another advantage: With the app you also keep the parking time always in view. If you would like to use the new offer, you can register online at http://www.evopark.de/ . The personal parking card comes within a few working days by mail.",
     "PrjDescription": "Evopark - Smart Parking",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/parken-nur-einfacher.html",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2040",
@@ -5307,7 +5307,7 @@
     "PrjName": "As part of the joint project \"Innovation Network Morgenstadt: City Insights\" under the project management of the Fraunhofer-Gesellschaft for the Promotion of Applied Research eV, the ESRI (Environmental Systems Research Institute) is developing a three-dimensional visualization of the district of M\u00c3\u00bclheim in cooperation with the City of Cologne. For this purpose, the city of Cologne provides data from the areas of environment, traffic, real estate, urban planning. From this three-dimensional geoinformation system (so-called 3-D GIS model), an app is being developed, which is expected to be available to the people of Cologne in the second quarter of 2015 on the homepage of the city of Cologne.",
     "PrjDescription": "Smart urban development in 3-D format",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/smarte-stadtentwicklung.html",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2160",
@@ -7809,7 +7809,7 @@
     "PrjName": "VBB timetable data via GTFS The Verkehrsverbund Berlin-Brandenburg (VBB) hereby provides the up-to-date bus and train timetable data from Berlin and Brandenburg in GTFS format. This current record includes lines, departure times, routes, etc. (more on the format at https://developers.google.com/transit/gtfs/ ). VBB logos for the required naming \"VBB Verkehrsverbund Berlin-Brandenburg GmbH\" are available at https://www.vbb.de/presse/media-service/logos?slug=logos . Outdated timetable data can be requested at api@vbb.de .",
     "PrjDescription": "VBB Bus Train Timetable",
     "PrjURL": "https://daten.berlin.de/datensaetze/vbb-fahrplandaten-gtfs",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3192",
@@ -14253,7 +14253,7 @@
     "PrjName": "Nav\u00c2\u00adi\u00c2\u00adga\u00c2\u00adtion in real-time Thou\u00c2\u00adsan\u00c2\u00adds of trucks drive through the port of Ham\u00c2\u00adbur\u00c2\u00adg every day. To en\u00c2\u00adsure that the traf\u00c2\u00adfic flows ef\u00c2\u00adfici\u00c2\u00adently, the HPA com\u00c2\u00adbines var\u00c2\u00adi\u00c2\u00adous ser\u00c2\u00advices and func\u00c2\u00adti\u00c2\u00adons. Any\u00c2\u00adone dri\u00c2\u00adving around the port ben\u00c2\u00ade\u00c2\u00adfits from per\u00c2\u00adso\u00c2\u00adna\u00c2\u00adli\u00c2\u00adsed nav\u00c2\u00adi\u00c2\u00adga\u00c2\u00adtion. As well as in\u00c2\u00adfor\u00c2\u00adma\u00c2\u00adtio\u00c2\u00adn about the traf\u00c2\u00adfic sit\u00c2\u00adu\u00c2\u00ada\u00c2\u00adtion in and around the port, they also have ac\u00c2\u00adcess to park\u00c2\u00ading and in\u00c2\u00adfra\u00c2\u00adstruc\u00c2\u00adture \u00c2\u00adin\u00c2\u00adfor\u00c2\u00adma\u00c2\u00adtio\u00c2\u00adn, clo\u00c2\u00adsures of the move\u00c2\u00adable bridges, as well as the lat\u00c2\u00adest in\u00c2\u00adfor\u00c2\u00adma\u00c2\u00adtion on im\u00c2\u00adpor\u00c2\u00adtant op\u00c2\u00ader\u00c2\u00ada\u00c2\u00adtions.",
     "PrjDescription": "Navigation in real-time",
     "PrjURL": "https://www.hamburg-port-authority.de/en/hpa-360/smartport/",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "5830",

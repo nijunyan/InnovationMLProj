@@ -18,15 +18,15 @@ def hello():
 
 @app.route('/initModel')
 def initModel():
+    DataIO.appendStrData("", "importTmpAllData", None)
     AnalyzeData.initialClusteringAndBuildCLF()
     label = AnalyzeData.predict()
     return "init successfully"
 
 @app.route('/retriveAllData')
 def retriveAllData():
-    mData = DataIO.getAllDataWithCategory()
-    str = json.dumps(mData, indent=2)
-    return str
+    sData = DataIO.getAllOriginalData()
+    return sData
 
 @app.route('/commitData', methods = ['POST'])
 def commitData():
@@ -50,4 +50,3 @@ def messages():
 if __name__ == "__main__":
     os.chdir(os.getcwd() + os.sep + 'src' + os.sep + 'MLapp')
     app.run()
-
