@@ -133,7 +133,7 @@ def commitData(sList):
         oCluster = DataIO.getData("Cluster", sCategory)[int(label[0])]
 
         aOneRetData = [aCategoryData[j] for j in range(len(aCategoryData)) if aCategoryData[j]["Label"] == sLabel ]
-        oData["ID"] = DataIO.getTmpAllDataID()
+        # oData["ID"] = DataIO.getTmpAllDataID()
         oData["Label"] = sLabel
 
         oRetData = {}
@@ -146,10 +146,8 @@ def commitData(sList):
     return DataIO.getStrFromJSON(aRetData)
 
 def main():
-    initialClusteringAndBuildCLF()
     sData = '''[{
         "ID": "4724",
-        "City": "David",
         "Country": "Panama",
         "IndexGrp": " Parking Management",
         "CityArea": "1004.4426",
@@ -161,7 +159,6 @@ def main():
         "PrjCost": "7.6",
         "PrjROI": "6.6",
         "PrjName": "Fast and easy to shop or to go to the city center? This works very easy in Hamburg. With the Park and Joy app, drivers can quickly find, book and pay for free parking spaces - all via smartphone. Parking has never been so much fun!",
-        "PrjDescription": "Park and Joy",
         "PrjURL": "https://www.parkandjoy.de/hamburg",
         "Label": "1"
       }]'''.strip('"')

@@ -135,6 +135,8 @@ def appendStrDatatoJsonFile(sData, jsonFiledir, jsonFile, beginID = 0):
         oData = {}
         aNewData[i]["ID"] = beginID + iSize + i + 1
         for j in range(len(aFeatures)):
+            if aFeatures[j] not in aNewData[i]:
+                aNewData[i][aFeatures[j]] = " "
             oData[aFeatures[j]] = aNewData[i][aFeatures[j]]
         obj.append(oData)
 
