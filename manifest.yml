@@ -1,7 +1,7 @@
 ---
 application:
-- name: smartProjectWIP
-  host: smart-project-wip
+- name: smartProject
+  host: smart-project
   path: .
   memory: 128M
   command: python MLService.py
