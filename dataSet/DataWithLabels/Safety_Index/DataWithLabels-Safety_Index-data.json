@@ -15,7 +15,7 @@
     "PrjName": "",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "27",
@@ -33,7 +33,7 @@
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "31",
@@ -51,7 +51,7 @@
     "PrjName": "",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "88",
@@ -80,14 +80,14 @@
     "Population": "1183528.5",
     "PerCapita": "50208.719",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "57.926",
+    "SmartIndexValue": "57.93",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "7.1",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "157",
@@ -98,14 +98,14 @@
     "Population": "1183528.5",
     "PerCapita": "50208.719",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "57.926",
+    "SmartIndexValue": "57.93",
     "PrjDuration": "4.1",
     "PrjCost": "5.1",
     "PrjROI": "7.1",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "161",
@@ -116,14 +116,14 @@
     "Population": "2004689.5",
     "PerCapita": "76134.3",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "55.825",
+    "SmartIndexValue": "55.83",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "222",
@@ -134,7 +134,7 @@
     "Population": "4083123",
     "PerCapita": "48664.836",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "65.703",
+    "SmartIndexValue": "65.7",
     "PrjDuration": "5.1",
     "PrjCost": "6.1",
     "PrjROI": "5.1",
@@ -152,14 +152,14 @@
     "Population": "1291122",
     "PerCapita": "54773.148",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "63.192",
+    "SmartIndexValue": "63.19",
     "PrjDuration": "7.2",
     "PrjCost": "7.2",
     "PrjROI": "7.2",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "291",
@@ -170,14 +170,14 @@
     "Population": "1291122",
     "PerCapita": "54773.148",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "63.192",
+    "SmartIndexValue": "63.19",
     "PrjDuration": "4.2",
     "PrjCost": "5.2",
     "PrjROI": "7.2",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "295",
@@ -195,7 +195,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "356",
@@ -206,7 +206,7 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.676",
+    "SmartIndexValue": "71.68",
     "PrjDuration": "5.2",
     "PrjCost": "6.2",
     "PrjROI": "5.2",
@@ -224,14 +224,14 @@
     "Population": "1506309",
     "PerCapita": "63902.006",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "73.724",
+    "SmartIndexValue": "73.72",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "7.4",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "425",
@@ -242,14 +242,14 @@
     "Population": "1506309",
     "PerCapita": "63902.006",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "73.724",
+    "SmartIndexValue": "73.72",
     "PrjDuration": "4.4",
     "PrjCost": "5.4",
     "PrjROI": "7.4",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "429",
@@ -267,7 +267,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "490",
@@ -278,7 +278,7 @@
     "Population": "5196702",
     "PerCapita": "61937.064",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "83.622",
+    "SmartIndexValue": "83.62",
     "PrjDuration": "5.4",
     "PrjCost": "6.4",
     "PrjROI": "5.4",
@@ -303,7 +303,7 @@
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "559",
@@ -321,7 +321,7 @@
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "563",
@@ -332,14 +332,14 @@
     "Population": "2733667.5",
     "PerCapita": "103819.5",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "76.125",
+    "SmartIndexValue": "76.13",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "624",
@@ -350,7 +350,7 @@
     "Population": "5567895",
     "PerCapita": "66361.14",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "89.595",
+    "SmartIndexValue": "89.6",
     "PrjDuration": "5.5",
     "PrjCost": "6.5",
     "PrjROI": "5.5",
@@ -368,14 +368,14 @@
     "Population": "1721496",
     "PerCapita": "73030.864",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "84.256",
+    "SmartIndexValue": "84.26",
     "PrjDuration": "7.6",
     "PrjCost": "7.6",
     "PrjROI": "7.6",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "693",
@@ -386,14 +386,14 @@
     "Population": "1721496",
     "PerCapita": "73030.864",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "84.256",
+    "SmartIndexValue": "84.26",
     "PrjDuration": "4.6",
     "PrjCost": "5.6",
     "PrjROI": "7.6",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "697",
@@ -411,7 +411,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "758",
@@ -422,7 +422,7 @@
     "Population": "5939088",
     "PerCapita": "70785.216",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "95.568",
+    "SmartIndexValue": "95.57",
     "PrjDuration": "5.6",
     "PrjCost": "6.6",
     "PrjROI": "5.6",
@@ -440,14 +440,14 @@
     "Population": "1829089.5",
     "PerCapita": "77595.293",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "89.522",
+    "SmartIndexValue": "89.52",
     "PrjDuration": "7.7",
     "PrjCost": "7.7",
     "PrjROI": "7.7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "827",
@@ -458,14 +458,14 @@
     "Population": "1829089.5",
     "PerCapita": "77595.293",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "89.522",
+    "SmartIndexValue": "89.52",
     "PrjDuration": "4.7",
     "PrjCost": "5.7",
     "PrjROI": "7.7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "831",
@@ -476,14 +476,14 @@
     "Population": "3098156.5",
     "PerCapita": "117662.1",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "86.275",
+    "SmartIndexValue": "86.28",
     "PrjDuration": "7.7",
     "PrjCost": "7.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "892",
@@ -494,7 +494,7 @@
     "Population": "6310281",
     "PerCapita": "75209.292",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "101.541",
+    "SmartIndexValue": "101.54",
     "PrjDuration": "5.7",
     "PrjCost": "6.7",
     "PrjROI": "5.7",
@@ -512,14 +512,14 @@
     "Population": "1936683",
     "PerCapita": "82159.722",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "94.788",
+    "SmartIndexValue": "94.79",
     "PrjDuration": "7.8",
     "PrjCost": "7.8",
     "PrjROI": "7.8",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "961",
@@ -530,14 +530,14 @@
     "Population": "1936683",
     "PerCapita": "82159.722",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "94.788",
+    "SmartIndexValue": "94.79",
     "PrjDuration": "4.8",
     "PrjCost": "5.8",
     "PrjROI": "7.8",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "965",
@@ -555,7 +555,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1026",
@@ -566,7 +566,7 @@
     "Population": "6681474",
     "PerCapita": "79633.368",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "107.514",
+    "SmartIndexValue": "107.51",
     "PrjDuration": "5.8",
     "PrjCost": "6.8",
     "PrjROI": "5.8",
@@ -584,14 +584,14 @@
     "Population": "2044276.5",
     "PerCapita": "86724.151",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "100.054",
+    "SmartIndexValue": "100.05",
     "PrjDuration": "7.9",
     "PrjCost": "7.9",
     "PrjROI": "7.9",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1095",
@@ -602,14 +602,14 @@
     "Population": "2044276.5",
     "PerCapita": "86724.151",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "100.054",
+    "SmartIndexValue": "100.05",
     "PrjDuration": "4.9",
     "PrjCost": "5.9",
     "PrjROI": "7.9",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1099",
@@ -620,14 +620,14 @@
     "Population": "3462645.5",
     "PerCapita": "131504.7",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "96.425",
+    "SmartIndexValue": "96.43",
     "PrjDuration": "7.9",
     "PrjCost": "7.9",
     "PrjROI": "6.9",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1160",
@@ -638,7 +638,7 @@
     "Population": "7052667",
     "PerCapita": "84057.444",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "113.487",
+    "SmartIndexValue": "113.49",
     "PrjDuration": "5.9",
     "PrjCost": "6.9",
     "PrjROI": "5.9",
@@ -656,14 +656,14 @@
     "Population": "968341.5",
     "PerCapita": "41079.861",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "47.394",
+    "SmartIndexValue": "47.39",
     "PrjDuration": "6.9",
     "PrjCost": "6.9",
     "PrjROI": "6.9",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1231",
@@ -674,14 +674,14 @@
     "Population": "968341.5",
     "PerCapita": "41079.861",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "47.394",
+    "SmartIndexValue": "47.39",
     "PrjDuration": "3.9",
     "PrjCost": "4.9",
     "PrjROI": "6.9",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1235",
@@ -692,14 +692,14 @@
     "Population": "1640200.5",
     "PerCapita": "62291.7",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "45.675",
+    "SmartIndexValue": "45.68",
     "PrjDuration": "6.9",
     "PrjCost": "6.9",
     "PrjROI": "5.9",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1296",
@@ -710,7 +710,7 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "53.757",
+    "SmartIndexValue": "53.76",
     "PrjDuration": "4.9",
     "PrjCost": "5.9",
     "PrjROI": "4.9",
@@ -728,14 +728,14 @@
     "Population": "1065175.65",
     "PerCapita": "45187.8471",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "52.1334",
+    "SmartIndexValue": "52.13",
     "PrjDuration": "7",
     "PrjCost": "7",
     "PrjROI": "7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1365",
@@ -746,14 +746,14 @@
     "Population": "1065175.65",
     "PerCapita": "45187.8471",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "52.1334",
+    "SmartIndexValue": "52.13",
     "PrjDuration": "4",
     "PrjCost": "5",
     "PrjROI": "7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1369",
@@ -764,14 +764,14 @@
     "Population": "1804220.55",
     "PerCapita": "68520.87",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.2425",
+    "SmartIndexValue": "50.24",
     "PrjDuration": "7",
     "PrjCost": "7",
     "PrjROI": "6",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1430",
@@ -782,7 +782,7 @@
     "Population": "3674810.7",
     "PerCapita": "43798.3524",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "59.1327",
+    "SmartIndexValue": "59.13",
     "PrjDuration": "5",
     "PrjCost": "6",
     "PrjROI": "5",
@@ -800,14 +800,14 @@
     "Population": "1162009.8",
     "PerCapita": "49295.8332",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "56.8728",
+    "SmartIndexValue": "56.87",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "7.1",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1499",
@@ -818,14 +818,14 @@
     "Population": "1162009.8",
     "PerCapita": "49295.8332",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "56.8728",
+    "SmartIndexValue": "56.87",
     "PrjDuration": "4.1",
     "PrjCost": "5.1",
     "PrjROI": "7.1",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1503",
@@ -843,7 +843,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1564",
@@ -854,7 +854,7 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "64.5084",
+    "SmartIndexValue": "64.51",
     "PrjDuration": "5.1",
     "PrjCost": "6.1",
     "PrjROI": "5.1",
@@ -872,14 +872,14 @@
     "Population": "1355678.1",
     "PerCapita": "57511.8054",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "66.3516",
+    "SmartIndexValue": "66.35",
     "PrjDuration": "7.3",
     "PrjCost": "7.3",
     "PrjROI": "7.3",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1633",
@@ -890,14 +890,14 @@
     "Population": "1355678.1",
     "PerCapita": "57511.8054",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "66.3516",
+    "SmartIndexValue": "66.35",
     "PrjDuration": "4.3",
     "PrjCost": "5.3",
     "PrjROI": "7.3",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1637",
@@ -908,14 +908,14 @@
     "Population": "2296280.7",
     "PerCapita": "87208.38",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "63.945",
+    "SmartIndexValue": "63.95",
     "PrjDuration": "7.3",
     "PrjCost": "7.3",
     "PrjROI": "6.3",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1698",
@@ -926,7 +926,7 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "75.2598",
+    "SmartIndexValue": "75.26",
     "PrjDuration": "5.3",
     "PrjCost": "6.3",
     "PrjROI": "5.3",
@@ -944,14 +944,14 @@
     "Population": "1452512.25",
     "PerCapita": "61619.7915",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.091",
+    "SmartIndexValue": "71.09",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "7.4",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1767",
@@ -962,14 +962,14 @@
     "Population": "1452512.25",
     "PerCapita": "61619.7915",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.091",
+    "SmartIndexValue": "71.09",
     "PrjDuration": "4.4",
     "PrjCost": "5.4",
     "PrjROI": "7.4",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1771",
@@ -980,14 +980,14 @@
     "Population": "2460300.75",
     "PerCapita": "93437.55",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "68.5125",
+    "SmartIndexValue": "68.51",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1832",
@@ -998,7 +998,7 @@
     "Population": "5011105.5",
     "PerCapita": "59725.026",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "80.6355",
+    "SmartIndexValue": "80.64",
     "PrjDuration": "5.4",
     "PrjCost": "6.4",
     "PrjROI": "5.4",
@@ -1016,14 +1016,14 @@
     "Population": "1549346.4",
     "PerCapita": "65727.7776",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "75.8304",
+    "SmartIndexValue": "75.83",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "7.5",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1901",
@@ -1034,14 +1034,14 @@
     "Population": "1549346.4",
     "PerCapita": "65727.7776",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "75.8304",
+    "SmartIndexValue": "75.83",
     "PrjDuration": "4.5",
     "PrjCost": "5.5",
     "PrjROI": "7.5",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "1905",
@@ -1059,7 +1059,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "1966",
@@ -1070,7 +1070,7 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "86.0112",
+    "SmartIndexValue": "86.01",
     "PrjDuration": "5.5",
     "PrjCost": "6.5",
     "PrjROI": "5.5",
@@ -1088,14 +1088,14 @@
     "Population": "1646180.55",
     "PerCapita": "69835.7637",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "80.5698",
+    "SmartIndexValue": "80.57",
     "PrjDuration": "7.6",
     "PrjCost": "7.6",
     "PrjROI": "7.6",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2035",
@@ -1106,14 +1106,14 @@
     "Population": "1646180.55",
     "PerCapita": "69835.7637",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "80.5698",
+    "SmartIndexValue": "80.57",
     "PrjDuration": "4.6",
     "PrjCost": "5.6",
     "PrjROI": "7.6",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2039",
@@ -1124,14 +1124,14 @@
     "Population": "2788340.85",
     "PerCapita": "105895.89",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "77.6475",
+    "SmartIndexValue": "77.65",
     "PrjDuration": "7.6",
     "PrjCost": "7.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2100",
@@ -1142,7 +1142,7 @@
     "Population": "5679252.9",
     "PerCapita": "67688.3628",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "91.3869",
+    "SmartIndexValue": "91.39",
     "PrjDuration": "5.6",
     "PrjCost": "6.6",
     "PrjROI": "5.6",
@@ -1160,14 +1160,14 @@
     "Population": "1743014.7",
     "PerCapita": "73943.7498",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "85.3092",
+    "SmartIndexValue": "85.31",
     "PrjDuration": "7.7",
     "PrjCost": "7.7",
     "PrjROI": "7.7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2169",
@@ -1178,14 +1178,14 @@
     "Population": "1743014.7",
     "PerCapita": "73943.7498",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "85.3092",
+    "SmartIndexValue": "85.31",
     "PrjDuration": "4.7",
     "PrjCost": "5.7",
     "PrjROI": "7.7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2173",
@@ -1196,14 +1196,14 @@
     "Population": "2952360.9",
     "PerCapita": "112125.06",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "82.215",
+    "SmartIndexValue": "82.22",
     "PrjDuration": "7.7",
     "PrjCost": "7.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2234",
@@ -1214,7 +1214,7 @@
     "Population": "6013326.6",
     "PerCapita": "71670.0312",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "96.7626",
+    "SmartIndexValue": "96.76",
     "PrjDuration": "5.7",
     "PrjCost": "6.7",
     "PrjROI": "5.7",
@@ -1232,14 +1232,14 @@
     "Population": "1839848.85",
     "PerCapita": "78051.7359",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "90.0486",
+    "SmartIndexValue": "90.05",
     "PrjDuration": "7.8",
     "PrjCost": "7.8",
     "PrjROI": "7.8",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2303",
@@ -1250,14 +1250,14 @@
     "Population": "1839848.85",
     "PerCapita": "78051.7359",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "90.0486",
+    "SmartIndexValue": "90.05",
     "PrjDuration": "4.8",
     "PrjCost": "5.8",
     "PrjROI": "7.8",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2307",
@@ -1268,14 +1268,14 @@
     "Population": "3116380.95",
     "PerCapita": "118354.23",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "86.7825",
+    "SmartIndexValue": "86.78",
     "PrjDuration": "7.8",
     "PrjCost": "7.8",
     "PrjROI": "6.8",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2368",
@@ -1286,7 +1286,7 @@
     "Population": "6347400.3",
     "PerCapita": "75651.6996",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "102.1383",
+    "SmartIndexValue": "102.14",
     "PrjDuration": "5.8",
     "PrjCost": "6.8",
     "PrjROI": "5.8",
@@ -1304,14 +1304,14 @@
     "Population": "860748",
     "PerCapita": "36515.432",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "42.128",
+    "SmartIndexValue": "42.13",
     "PrjDuration": "6.8",
     "PrjCost": "6.8",
     "PrjROI": "6.8",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2439",
@@ -1322,14 +1322,14 @@
     "Population": "860748",
     "PerCapita": "36515.432",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "42.128",
+    "SmartIndexValue": "42.13",
     "PrjDuration": "3.8",
     "PrjCost": "4.8",
     "PrjROI": "6.8",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2443",
@@ -1347,7 +1347,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2504",
@@ -1358,7 +1358,7 @@
     "Population": "2969544",
     "PerCapita": "35392.608",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "47.784",
+    "SmartIndexValue": "47.78",
     "PrjDuration": "4.8",
     "PrjCost": "5.8",
     "PrjROI": "4.8",
@@ -1376,14 +1376,14 @@
     "Population": "946822.8",
     "PerCapita": "40166.9752",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "46.3408",
+    "SmartIndexValue": "46.34",
     "PrjDuration": "6.9",
     "PrjCost": "6.9",
     "PrjROI": "6.9",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2573",
@@ -1394,14 +1394,14 @@
     "Population": "946822.8",
     "PerCapita": "40166.9752",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "46.3408",
+    "SmartIndexValue": "46.34",
     "PrjDuration": "3.9",
     "PrjCost": "4.9",
     "PrjROI": "6.9",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2577",
@@ -1419,7 +1419,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2638",
@@ -1430,7 +1430,7 @@
     "Population": "3266498.4",
     "PerCapita": "38931.8688",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "52.5624",
+    "SmartIndexValue": "52.56",
     "PrjDuration": "4.9",
     "PrjCost": "5.9",
     "PrjROI": "4.9",
@@ -1448,14 +1448,14 @@
     "Population": "1032897.6",
     "PerCapita": "43818.5184",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.5536",
+    "SmartIndexValue": "50.55",
     "PrjDuration": "7",
     "PrjCost": "7",
     "PrjROI": "7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2707",
@@ -1466,14 +1466,14 @@
     "Population": "1032897.6",
     "PerCapita": "43818.5184",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.5536",
+    "SmartIndexValue": "50.55",
     "PrjDuration": "4",
     "PrjCost": "5",
     "PrjROI": "7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2711",
@@ -1491,7 +1491,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2772",
@@ -1502,7 +1502,7 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "57.3408",
+    "SmartIndexValue": "57.34",
     "PrjDuration": "5",
     "PrjCost": "6",
     "PrjROI": "5",
@@ -1520,14 +1520,14 @@
     "Population": "1205047.2",
     "PerCapita": "51121.6048",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "58.9792",
+    "SmartIndexValue": "58.98",
     "PrjDuration": "7.2",
     "PrjCost": "7.2",
     "PrjROI": "7.2",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2841",
@@ -1538,14 +1538,14 @@
     "Population": "1205047.2",
     "PerCapita": "51121.6048",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "58.9792",
+    "SmartIndexValue": "58.98",
     "PrjDuration": "4.2",
     "PrjCost": "5.2",
     "PrjROI": "7.2",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2845",
@@ -1563,7 +1563,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2906",
@@ -1574,7 +1574,7 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "66.8976",
+    "SmartIndexValue": "66.9",
     "PrjDuration": "5.2",
     "PrjCost": "6.2",
     "PrjROI": "5.2",
@@ -1592,14 +1592,14 @@
     "Population": "1291122",
     "PerCapita": "54773.148",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "63.192",
+    "SmartIndexValue": "63.19",
     "PrjDuration": "7.3",
     "PrjCost": "7.3",
     "PrjROI": "7.3",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "2975",
@@ -1610,14 +1610,14 @@
     "Population": "1291122",
     "PerCapita": "54773.148",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "63.192",
+    "SmartIndexValue": "63.19",
     "PrjDuration": "4.3",
     "PrjCost": "5.3",
     "PrjROI": "7.3",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "2979",
@@ -1635,7 +1635,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3040",
@@ -1646,7 +1646,7 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.676",
+    "SmartIndexValue": "71.68",
     "PrjDuration": "5.3",
     "PrjCost": "6.3",
     "PrjROI": "5.3",
@@ -1664,14 +1664,14 @@
     "Population": "1377196.8",
     "PerCapita": "58424.6912",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "67.4048",
+    "SmartIndexValue": "67.4",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "7.4",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3109",
@@ -1682,14 +1682,14 @@
     "Population": "1377196.8",
     "PerCapita": "58424.6912",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "67.4048",
+    "SmartIndexValue": "67.4",
     "PrjDuration": "4.4",
     "PrjCost": "5.4",
     "PrjROI": "7.4",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3113",
@@ -1707,7 +1707,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3174",
@@ -1718,7 +1718,7 @@
     "Population": "4751270.4",
     "PerCapita": "56628.1728",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "76.4544",
+    "SmartIndexValue": "76.45",
     "PrjDuration": "5.4",
     "PrjCost": "6.4",
     "PrjROI": "5.4",
@@ -1736,14 +1736,14 @@
     "Population": "1463271.6",
     "PerCapita": "62076.2344",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.6176",
+    "SmartIndexValue": "71.62",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "7.5",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3243",
@@ -1754,14 +1754,14 @@
     "Population": "1463271.6",
     "PerCapita": "62076.2344",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.6176",
+    "SmartIndexValue": "71.62",
     "PrjDuration": "4.5",
     "PrjCost": "5.5",
     "PrjROI": "7.5",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3247",
@@ -1779,7 +1779,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3308",
@@ -1790,7 +1790,7 @@
     "Population": "5048224.8",
     "PerCapita": "60167.4336",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "81.2328",
+    "SmartIndexValue": "81.23",
     "PrjDuration": "5.5",
     "PrjCost": "6.5",
     "PrjROI": "5.5",
@@ -1808,14 +1808,14 @@
     "Population": "1549346.4",
     "PerCapita": "65727.7776",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "75.8304",
+    "SmartIndexValue": "75.83",
     "PrjDuration": "7.6",
     "PrjCost": "7.6",
     "PrjROI": "7.6",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3377",
@@ -1826,14 +1826,14 @@
     "Population": "1549346.4",
     "PerCapita": "65727.7776",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "75.8304",
+    "SmartIndexValue": "75.83",
     "PrjDuration": "4.6",
     "PrjCost": "5.6",
     "PrjROI": "7.6",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3381",
@@ -1851,7 +1851,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3442",
@@ -1862,7 +1862,7 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "86.0112",
+    "SmartIndexValue": "86.01",
     "PrjDuration": "5.6",
     "PrjCost": "6.6",
     "PrjROI": "5.6",
@@ -1880,14 +1880,14 @@
     "Population": "1635421.2",
     "PerCapita": "69379.3208",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "80.0432",
+    "SmartIndexValue": "80.04",
     "PrjDuration": "7.7",
     "PrjCost": "7.7",
     "PrjROI": "7.7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3511",
@@ -1898,14 +1898,14 @@
     "Population": "1635421.2",
     "PerCapita": "69379.3208",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "80.0432",
+    "SmartIndexValue": "80.04",
     "PrjDuration": "4.7",
     "PrjCost": "5.7",
     "PrjROI": "7.7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3515",
@@ -1923,7 +1923,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3576",
@@ -1934,7 +1934,7 @@
     "Population": "5642133.6",
     "PerCapita": "67245.9552",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "90.7896",
+    "SmartIndexValue": "90.79",
     "PrjDuration": "5.7",
     "PrjCost": "6.7",
     "PrjROI": "5.7",
@@ -1952,14 +1952,14 @@
     "Population": "753154.5",
     "PerCapita": "31951.003",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "36.862",
+    "SmartIndexValue": "36.86",
     "PrjDuration": "6.7",
     "PrjCost": "6.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3647",
@@ -1970,14 +1970,14 @@
     "Population": "753154.5",
     "PerCapita": "31951.003",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "36.862",
+    "SmartIndexValue": "36.86",
     "PrjDuration": "3.7",
     "PrjCost": "4.7",
     "PrjROI": "6.7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3651",
@@ -1988,14 +1988,14 @@
     "Population": "1275711.5",
     "PerCapita": "48449.1",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "35.525",
+    "SmartIndexValue": "35.53",
     "PrjDuration": "6.7",
     "PrjCost": "6.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3712",
@@ -2006,7 +2006,7 @@
     "Population": "2598351",
     "PerCapita": "30968.532",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "41.811",
+    "SmartIndexValue": "41.81",
     "PrjDuration": "4.7",
     "PrjCost": "5.7",
     "PrjROI": "4.7",
@@ -2024,14 +2024,14 @@
     "Population": "828469.95",
     "PerCapita": "35146.1033",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "40.5482",
+    "SmartIndexValue": "40.55",
     "PrjDuration": "6.8",
     "PrjCost": "6.8",
     "PrjROI": "6.8",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3781",
@@ -2042,14 +2042,14 @@
     "Population": "828469.95",
     "PerCapita": "35146.1033",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "40.5482",
+    "SmartIndexValue": "40.55",
     "PrjDuration": "3.8",
     "PrjCost": "4.8",
     "PrjROI": "6.8",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3785",
@@ -2060,14 +2060,14 @@
     "Population": "1403282.65",
     "PerCapita": "53294.01",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "39.0775",
+    "SmartIndexValue": "39.08",
     "PrjDuration": "6.8",
     "PrjCost": "6.8",
     "PrjROI": "5.8",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3846",
@@ -2078,7 +2078,7 @@
     "Population": "2858186.1",
     "PerCapita": "34065.3852",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "45.9921",
+    "SmartIndexValue": "45.99",
     "PrjDuration": "4.8",
     "PrjCost": "5.8",
     "PrjROI": "4.8",
@@ -2096,14 +2096,14 @@
     "Population": "903785.4",
     "PerCapita": "38341.2036",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "44.2344",
+    "SmartIndexValue": "44.23",
     "PrjDuration": "6.9",
     "PrjCost": "6.9",
     "PrjROI": "6.9",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3915",
@@ -2114,14 +2114,14 @@
     "Population": "903785.4",
     "PerCapita": "38341.2036",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "44.2344",
+    "SmartIndexValue": "44.23",
     "PrjDuration": "3.9",
     "PrjCost": "4.9",
     "PrjROI": "6.9",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3919",
@@ -2139,7 +2139,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "3980",
@@ -2150,7 +2150,7 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.1732",
+    "SmartIndexValue": "50.17",
     "PrjDuration": "4.9",
     "PrjCost": "5.9",
     "PrjROI": "4.9",
@@ -2168,14 +2168,14 @@
     "Population": "1054416.3",
     "PerCapita": "44731.4042",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "51.6068",
+    "SmartIndexValue": "51.61",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "7.1",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4049",
@@ -2186,14 +2186,14 @@
     "Population": "1054416.3",
     "PerCapita": "44731.4042",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "51.6068",
+    "SmartIndexValue": "51.61",
     "PrjDuration": "4.1",
     "PrjCost": "5.1",
     "PrjROI": "7.1",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4053",
@@ -2204,14 +2204,14 @@
     "Population": "1785996.1",
     "PerCapita": "67828.74",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "49.735",
+    "SmartIndexValue": "49.74",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4114",
@@ -2222,7 +2222,7 @@
     "Population": "3637691.4",
     "PerCapita": "43355.9448",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "58.5354",
+    "SmartIndexValue": "58.54",
     "PrjDuration": "5.1",
     "PrjCost": "6.1",
     "PrjROI": "5.1",
@@ -2240,14 +2240,14 @@
     "Population": "1129731.75",
     "PerCapita": "47926.5045",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "55.293",
+    "SmartIndexValue": "55.29",
     "PrjDuration": "7.2",
     "PrjCost": "7.2",
     "PrjROI": "7.2",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4183",
@@ -2258,14 +2258,14 @@
     "Population": "1129731.75",
     "PerCapita": "47926.5045",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "55.293",
+    "SmartIndexValue": "55.29",
     "PrjDuration": "4.2",
     "PrjCost": "5.2",
     "PrjROI": "7.2",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4187",
@@ -2276,14 +2276,14 @@
     "Population": "1913567.25",
     "PerCapita": "72673.65",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "53.2875",
+    "SmartIndexValue": "53.29",
     "PrjDuration": "7.2",
     "PrjCost": "7.2",
     "PrjROI": "6.2",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4248",
@@ -2294,7 +2294,7 @@
     "Population": "3897526.5",
     "PerCapita": "46452.798",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "62.7165",
+    "SmartIndexValue": "62.72",
     "PrjDuration": "5.2",
     "PrjCost": "6.2",
     "PrjROI": "5.2",
@@ -2312,14 +2312,14 @@
     "Population": "1205047.2",
     "PerCapita": "51121.6048",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "58.9792",
+    "SmartIndexValue": "58.98",
     "PrjDuration": "7.3",
     "PrjCost": "7.3",
     "PrjROI": "7.3",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4317",
@@ -2330,14 +2330,14 @@
     "Population": "1205047.2",
     "PerCapita": "51121.6048",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "58.9792",
+    "SmartIndexValue": "58.98",
     "PrjDuration": "4.3",
     "PrjCost": "5.3",
     "PrjROI": "7.3",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4321",
@@ -2355,7 +2355,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4382",
@@ -2366,7 +2366,7 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "66.8976",
+    "SmartIndexValue": "66.9",
     "PrjDuration": "5.3",
     "PrjCost": "6.3",
     "PrjROI": "5.3",
@@ -2384,14 +2384,14 @@
     "Population": "1280362.65",
     "PerCapita": "54316.7051",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "62.6654",
+    "SmartIndexValue": "62.67",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "7.4",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4451",
@@ -2402,14 +2402,14 @@
     "Population": "1280362.65",
     "PerCapita": "54316.7051",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "62.6654",
+    "SmartIndexValue": "62.67",
     "PrjDuration": "4.4",
     "PrjCost": "5.4",
     "PrjROI": "7.4",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4455",
@@ -2420,14 +2420,14 @@
     "Population": "2168709.55",
     "PerCapita": "82363.47",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "60.3925",
+    "SmartIndexValue": "60.39",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4516",
@@ -2438,7 +2438,7 @@
     "Population": "4417196.7",
     "PerCapita": "52646.5044",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "71.0787",
+    "SmartIndexValue": "71.08",
     "PrjDuration": "5.4",
     "PrjCost": "6.4",
     "PrjROI": "5.4",
@@ -2456,14 +2456,14 @@
     "Population": "1355678.1",
     "PerCapita": "57511.8054",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "66.3516",
+    "SmartIndexValue": "66.35",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "7.5",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4585",
@@ -2474,14 +2474,14 @@
     "Population": "1355678.1",
     "PerCapita": "57511.8054",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "66.3516",
+    "SmartIndexValue": "66.35",
     "PrjDuration": "4.5",
     "PrjCost": "5.5",
     "PrjROI": "7.5",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4589",
@@ -2492,14 +2492,14 @@
     "Population": "2296280.7",
     "PerCapita": "87208.38",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "63.945",
+    "SmartIndexValue": "63.95",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4650",
@@ -2510,7 +2510,7 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "75.2598",
+    "SmartIndexValue": "75.26",
     "PrjDuration": "5.5",
     "PrjCost": "6.5",
     "PrjROI": "5.5",
@@ -2528,14 +2528,14 @@
     "Population": "1430993.55",
     "PerCapita": "60706.9057",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "70.0378",
+    "SmartIndexValue": "70.04",
     "PrjDuration": "7.6",
     "PrjCost": "7.6",
     "PrjROI": "7.6",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4719",
@@ -2546,14 +2546,14 @@
     "Population": "1430993.55",
     "PerCapita": "60706.9057",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "70.0378",
+    "SmartIndexValue": "70.04",
     "PrjDuration": "4.6",
     "PrjCost": "5.6",
     "PrjROI": "7.6",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4723",
@@ -2564,14 +2564,14 @@
     "Population": "2423851.85",
     "PerCapita": "92053.29",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "67.4975",
+    "SmartIndexValue": "67.5",
     "PrjDuration": "7.6",
     "PrjCost": "7.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4784",
@@ -2582,7 +2582,7 @@
     "Population": "4936866.9",
     "PerCapita": "58840.2108",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "79.4409",
+    "SmartIndexValue": "79.44",
     "PrjDuration": "5.6",
     "PrjCost": "6.6",
     "PrjROI": "5.6",
@@ -2600,14 +2600,14 @@
     "Population": "645561",
     "PerCapita": "27386.574",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "31.596",
+    "SmartIndexValue": "31.6",
     "PrjDuration": "6.6",
     "PrjCost": "6.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4855",
@@ -2618,14 +2618,14 @@
     "Population": "645561",
     "PerCapita": "27386.574",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "31.596",
+    "SmartIndexValue": "31.6",
     "PrjDuration": "3.6",
     "PrjCost": "4.6",
     "PrjROI": "6.6",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4859",
@@ -2643,7 +2643,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4920",
@@ -2654,7 +2654,7 @@
     "Population": "2227158",
     "PerCapita": "26544.456",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "35.838",
+    "SmartIndexValue": "35.84",
     "PrjDuration": "4.6",
     "PrjCost": "5.6",
     "PrjROI": "4.6",
@@ -2672,14 +2672,14 @@
     "Population": "710117.1",
     "PerCapita": "30125.2314",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "34.7556",
+    "SmartIndexValue": "34.76",
     "PrjDuration": "6.7",
     "PrjCost": "6.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4989",
@@ -2690,14 +2690,14 @@
     "Population": "710117.1",
     "PerCapita": "30125.2314",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "34.7556",
+    "SmartIndexValue": "34.76",
     "PrjDuration": "3.7",
     "PrjCost": "4.7",
     "PrjROI": "6.7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4993",
@@ -2708,14 +2708,14 @@
     "Population": "1202813.7",
     "PerCapita": "45680.58",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "33.495",
+    "SmartIndexValue": "33.5",
     "PrjDuration": "6.7",
     "PrjCost": "6.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5054",
@@ -2726,7 +2726,7 @@
     "Population": "2449873.8",
     "PerCapita": "29198.9016",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "39.4218",
+    "SmartIndexValue": "39.42",
     "PrjDuration": "4.7",
     "PrjCost": "5.7",
     "PrjROI": "4.7",
@@ -2744,14 +2744,14 @@
     "Population": "774673.2",
     "PerCapita": "32863.8888",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "37.9152",
+    "SmartIndexValue": "37.92",
     "PrjDuration": "6.8",
     "PrjCost": "6.8",
     "PrjROI": "6.8",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5123",
@@ -2762,14 +2762,14 @@
     "Population": "774673.2",
     "PerCapita": "32863.8888",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "37.9152",
+    "SmartIndexValue": "37.92",
     "PrjDuration": "3.8",
     "PrjCost": "4.8",
     "PrjROI": "6.8",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5127",
@@ -2787,7 +2787,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5188",
@@ -2798,7 +2798,7 @@
     "Population": "2672589.6",
     "PerCapita": "31853.3472",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "43.0056",
+    "SmartIndexValue": "43.01",
     "PrjDuration": "4.8",
     "PrjCost": "5.8",
     "PrjROI": "4.8",
@@ -2816,14 +2816,14 @@
     "Population": "903785.4",
     "PerCapita": "38341.2036",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "44.2344",
+    "SmartIndexValue": "44.23",
     "PrjDuration": "7",
     "PrjCost": "7",
     "PrjROI": "7",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5257",
@@ -2834,14 +2834,14 @@
     "Population": "903785.4",
     "PerCapita": "38341.2036",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "44.2344",
+    "SmartIndexValue": "44.23",
     "PrjDuration": "4",
     "PrjCost": "5",
     "PrjROI": "7",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5261",
@@ -2859,7 +2859,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5322",
@@ -2870,7 +2870,7 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.1732",
+    "SmartIndexValue": "50.17",
     "PrjDuration": "5",
     "PrjCost": "6",
     "PrjROI": "5",
@@ -2888,14 +2888,14 @@
     "Population": "968341.5",
     "PerCapita": "41079.861",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "47.394",
+    "SmartIndexValue": "47.39",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "7.1",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5391",
@@ -2906,14 +2906,14 @@
     "Population": "968341.5",
     "PerCapita": "41079.861",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "47.394",
+    "SmartIndexValue": "47.39",
     "PrjDuration": "4.1",
     "PrjCost": "5.1",
     "PrjROI": "7.1",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5395",
@@ -2924,14 +2924,14 @@
     "Population": "1640200.5",
     "PerCapita": "62291.7",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "45.675",
+    "SmartIndexValue": "45.68",
     "PrjDuration": "7.1",
     "PrjCost": "7.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5456",
@@ -2942,7 +2942,7 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "53.757",
+    "SmartIndexValue": "53.76",
     "PrjDuration": "5.1",
     "PrjCost": "6.1",
     "PrjROI": "5.1",
@@ -2960,14 +2960,14 @@
     "Population": "1032897.6",
     "PerCapita": "43818.5184",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.5536",
+    "SmartIndexValue": "50.55",
     "PrjDuration": "7.2",
     "PrjCost": "7.2",
     "PrjROI": "7.2",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5525",
@@ -2978,14 +2978,14 @@
     "Population": "1032897.6",
     "PerCapita": "43818.5184",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "50.5536",
+    "SmartIndexValue": "50.55",
     "PrjDuration": "4.2",
     "PrjCost": "5.2",
     "PrjROI": "7.2",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5529",
@@ -3003,7 +3003,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5590",
@@ -3014,7 +3014,7 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "57.3408",
+    "SmartIndexValue": "57.34",
     "PrjDuration": "5.2",
     "PrjCost": "6.2",
     "PrjROI": "5.2",
@@ -3032,14 +3032,14 @@
     "Population": "1097453.7",
     "PerCapita": "46557.1758",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "53.7132",
+    "SmartIndexValue": "53.71",
     "PrjDuration": "7.3",
     "PrjCost": "7.3",
     "PrjROI": "7.3",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5659",
@@ -3050,14 +3050,14 @@
     "Population": "1097453.7",
     "PerCapita": "46557.1758",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "53.7132",
+    "SmartIndexValue": "53.71",
     "PrjDuration": "4.3",
     "PrjCost": "5.3",
     "PrjROI": "7.3",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5663",
@@ -3068,14 +3068,14 @@
     "Population": "1858893.9",
     "PerCapita": "70597.26",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "51.765",
+    "SmartIndexValue": "51.77",
     "PrjDuration": "7.3",
     "PrjCost": "7.3",
     "PrjROI": "6.3",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5724",
@@ -3086,7 +3086,7 @@
     "Population": "3786168.6",
     "PerCapita": "45125.5752",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "60.9246",
+    "SmartIndexValue": "60.92",
     "PrjDuration": "5.3",
     "PrjCost": "6.3",
     "PrjROI": "5.3",
@@ -3104,14 +3104,14 @@
     "Population": "1162009.8",
     "PerCapita": "49295.8332",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "56.8728",
+    "SmartIndexValue": "56.87",
     "PrjDuration": "7.4",
     "PrjCost": "7.4",
     "PrjROI": "7.4",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5793",
@@ -3122,14 +3122,14 @@
     "Population": "1162009.8",
     "PerCapita": "49295.8332",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "56.8728",
+    "SmartIndexValue": "56.87",
     "PrjDuration": "4.4",
     "PrjCost": "5.4",
     "PrjROI": "7.4",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5797",
@@ -3147,7 +3147,7 @@
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5858",
@@ -3158,7 +3158,7 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "64.5084",
+    "SmartIndexValue": "64.51",
     "PrjDuration": "5.4",
     "PrjCost": "6.4",
     "PrjROI": "5.4",
@@ -3176,14 +3176,14 @@
     "Population": "1226565.9",
     "PerCapita": "52034.4906",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "60.0324",
+    "SmartIndexValue": "60.03",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "7.5",
     "PrjName": "0",
     "PrjDescription": "Police Station Finder",
     "PrjURL": "https://koeln.polizei.nrw/wachenfinder",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5927",
@@ -3194,14 +3194,14 @@
     "Population": "1226565.9",
     "PerCapita": "52034.4906",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "60.0324",
+    "SmartIndexValue": "60.03",
     "PrjDuration": "4.5",
     "PrjCost": "5.5",
     "PrjROI": "7.5",
     "PrjName": "The Cologne-based company Coptr Warn- und Schutzsysteme GmbH has been developing and producing innovative, precise, acoustically-optically smart on-site warning systems for several years. Whether thunderstorms, hurricanes, extreme heat or pollutants in the air, the warning systems automatically warn and alert people in the open air to get to safety from lightning strikes and other high-threshold, potentially life-threatening weather and environmental hazards.",
     "PrjDescription": "COPTR - Digitization of the population warning",
     "PrjURL": "http://www.smartcity-cologne.de/index.php/coptr-digitalisierung-der-bevoelkerungswarnung.html",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "5931",
@@ -3212,14 +3212,14 @@
     "Population": "2077587.3",
     "PerCapita": "78902.82",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "57.855",
+    "SmartIndexValue": "57.86",
     "PrjDuration": "7.5",
     "PrjCost": "7.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Citizen Safety - Hamburg",
     "PrjURL": "https://www.hamburg.com/emergencies/",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "5992",
@@ -3230,7 +3230,7 @@
     "Population": "4231600.2",
     "PerCapita": "50434.4664",
     "SmartIndex1": " Safety_Index",
-    "SmartIndexValue": "68.0922",
+    "SmartIndexValue": "68.09",
     "PrjDuration": "5.5",
     "PrjCost": "6.5",
     "PrjROI": "5.5",

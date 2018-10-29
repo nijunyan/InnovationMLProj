@@ -17,8 +17,10 @@ def dataPreprocessingForAll(mData):
 def dataProcessing(key, X):
     originalX = np.array(X)
     scaler = preprocessing.StandardScaler()
-    X = scaler.fit_transform(originalX)
-
+    try:
+        X = scaler.fit_transform(originalX)
+    except :
+        print(key)
     DataIO.preserveModel(key, 'scaler', scaler)
 
     return X, scaler
@@ -146,24 +148,27 @@ def commitData(sList):
     return DataIO.getStrFromJSON(aRetData)
 
 def main():
-    sData = '''[{
-        "ID": "4724",
-        "Country": "Panama",
-        "IndexGrp": " Parking Management",
-        "CityArea": "1004.4426",
-        "Population": "2423851.85",
-        "PerCapita": "92053.29",
-        "SmartIndex1": " Traffic_Time_Index",
-        "SmartIndexValue": "41.4827",
-        "PrjDuration": "7.6",
-        "PrjCost": "7.6",
-        "PrjROI": "6.6",
-        "PrjName": "Fast and easy to shop or to go to the city center? This works very easy in Hamburg. With the Park and Joy app, drivers can quickly find, book and pay for free parking spaces - all via smartphone. Parking has never been so much fun!",
-        "PrjURL": "https://www.parkandjoy.de/hamburg",
-        "Label": "1"
-      }]'''.strip('"')
+    # sData = '''[{
+    #     "ID": "4724",
+    #     "Country": "Panama",
+    #     "IndexGrp": " Parking Management",
+    #     "CityArea": "1004.4426",
+    #     "Population": "2423851.85",
+    #     "PerCapita": "92053.29",
+    #     "SmartIndex1": " Traffic_Time_Index",
+    #     "SmartIndexValue": "41.4827",
+    #     "PrjDuration": "7.6",
+    #     "PrjCost": "7.6",
+    #     "PrjROI": "6.6",
+    #     "PrjName": "Fast and easy to shop or to go to the city center? This works very easy in Hamburg. With the Park and Joy app, drivers can quickly find, book and pay for free parking spaces - all via smartphone. Parking has never been so much fun!",
+    #     "PrjURL": "https://www.parkandjoy.de/hamburg",
+    #     "Label": "1"
+    #   }]'''.strip('"')
+    #
+    # s = commitData(sData)
 
-    s = commitData(sData)
+    initialClusteringAndBuildCLF()
+    label = predict()
     pass
 if __name__=="__main__":
     main()

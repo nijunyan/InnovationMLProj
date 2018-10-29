@@ -15,7 +15,7 @@
     "PrjName": "",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "221",
@@ -26,7 +26,7 @@
     "Population": "4083123",
     "PerCapita": "48664.836",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "36.927",
+    "SmartIndexValue": "36.93",
     "PrjDuration": "6.1",
     "PrjCost": "7.1",
     "PrjROI": "5.1",
@@ -44,7 +44,7 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "40.284",
+    "SmartIndexValue": "40.28",
     "PrjDuration": "6.2",
     "PrjCost": "7.2",
     "PrjROI": "5.2",
@@ -62,14 +62,14 @@
     "Population": "5196702",
     "PerCapita": "61937.064",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "46.998",
+    "SmartIndexValue": "47",
     "PrjDuration": "6.4",
     "PrjCost": "7.4",
     "PrjROI": "5.4",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "623",
@@ -80,14 +80,14 @@
     "Population": "5567895",
     "PerCapita": "66361.14",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "50.355",
+    "SmartIndexValue": "50.36",
     "PrjDuration": "6.5",
     "PrjCost": "7.5",
     "PrjROI": "5.5",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "757",
@@ -98,14 +98,14 @@
     "Population": "5939088",
     "PerCapita": "70785.216",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "53.712",
+    "SmartIndexValue": "53.71",
     "PrjDuration": "6.6",
     "PrjCost": "7.6",
     "PrjROI": "5.6",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "891",
@@ -116,14 +116,14 @@
     "Population": "6310281",
     "PerCapita": "75209.292",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "57.069",
+    "SmartIndexValue": "57.07",
     "PrjDuration": "6.7",
     "PrjCost": "7.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1025",
@@ -134,14 +134,14 @@
     "Population": "6681474",
     "PerCapita": "79633.368",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "60.426",
+    "SmartIndexValue": "60.43",
     "PrjDuration": "6.8",
     "PrjCost": "7.8",
     "PrjROI": "5.8",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1159",
@@ -152,14 +152,14 @@
     "Population": "7052667",
     "PerCapita": "84057.444",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "63.783",
+    "SmartIndexValue": "63.78",
     "PrjDuration": "6.9",
     "PrjCost": "7.9",
     "PrjROI": "5.9",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1295",
@@ -170,14 +170,14 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "30.213",
+    "SmartIndexValue": "30.21",
     "PrjDuration": "5.9",
     "PrjCost": "6.9",
     "PrjROI": "4.9",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1429",
@@ -188,14 +188,14 @@
     "Population": "3674810.7",
     "PerCapita": "43798.3524",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "33.2343",
-    "PrjDuration": "6",
-    "PrjCost": "7",
-    "PrjROI": "5",
+    "SmartIndexValue": "26.91",
+    "PrjDuration": "4.154",
+    "PrjCost": "6.647",
+    "PrjROI": "4.154",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1563",
@@ -206,7 +206,7 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "36.2556",
+    "SmartIndexValue": "36.26",
     "PrjDuration": "6.1",
     "PrjCost": "7.1",
     "PrjROI": "5.1",
@@ -224,7 +224,7 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "42.2982",
+    "SmartIndexValue": "42.3",
     "PrjDuration": "6.3",
     "PrjCost": "7.3",
     "PrjROI": "5.3",
@@ -242,7 +242,7 @@
     "Population": "5011105.5",
     "PerCapita": "59725.026",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "45.3195",
+    "SmartIndexValue": "45.32",
     "PrjDuration": "6.4",
     "PrjCost": "7.4",
     "PrjROI": "5.4",
@@ -260,14 +260,14 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "48.3408",
+    "SmartIndexValue": "48.34",
     "PrjDuration": "6.5",
     "PrjCost": "7.5",
     "PrjROI": "5.5",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2099",
@@ -278,14 +278,14 @@
     "Population": "5679252.9",
     "PerCapita": "67688.3628",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "51.3621",
+    "SmartIndexValue": "51.36",
     "PrjDuration": "6.6",
     "PrjCost": "7.6",
     "PrjROI": "5.6",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2233",
@@ -296,14 +296,14 @@
     "Population": "6013326.6",
     "PerCapita": "71670.0312",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "54.3834",
+    "SmartIndexValue": "54.38",
     "PrjDuration": "6.7",
     "PrjCost": "7.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2367",
@@ -314,14 +314,14 @@
     "Population": "6347400.3",
     "PerCapita": "75651.6996",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "57.4047",
+    "SmartIndexValue": "57.4",
     "PrjDuration": "6.8",
     "PrjCost": "7.8",
     "PrjROI": "5.8",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2503",
@@ -332,14 +332,14 @@
     "Population": "2969544",
     "PerCapita": "35392.608",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "26.856",
+    "SmartIndexValue": "26.86",
     "PrjDuration": "5.8",
     "PrjCost": "6.8",
     "PrjROI": "4.8",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2637",
@@ -350,14 +350,14 @@
     "Population": "3266498.4",
     "PerCapita": "38931.8688",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "29.5416",
+    "SmartIndexValue": "29.54",
     "PrjDuration": "5.9",
     "PrjCost": "6.9",
     "PrjROI": "4.9",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2771",
@@ -368,14 +368,14 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "32.2272",
+    "SmartIndexValue": "32.23",
     "PrjDuration": "6",
     "PrjCost": "7",
     "PrjROI": "5",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2905",
@@ -386,7 +386,7 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "37.5984",
+    "SmartIndexValue": "37.6",
     "PrjDuration": "6.2",
     "PrjCost": "7.2",
     "PrjROI": "5.2",
@@ -404,7 +404,7 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "40.284",
+    "SmartIndexValue": "40.28",
     "PrjDuration": "6.3",
     "PrjCost": "7.3",
     "PrjROI": "5.3",
@@ -422,7 +422,7 @@
     "Population": "4751270.4",
     "PerCapita": "56628.1728",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "42.9696",
+    "SmartIndexValue": "42.97",
     "PrjDuration": "6.4",
     "PrjCost": "7.4",
     "PrjROI": "5.4",
@@ -440,14 +440,14 @@
     "Population": "5048224.8",
     "PerCapita": "60167.4336",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "45.6552",
+    "SmartIndexValue": "45.66",
     "PrjDuration": "6.5",
     "PrjCost": "7.5",
     "PrjROI": "5.5",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "3441",
@@ -458,14 +458,14 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "48.3408",
+    "SmartIndexValue": "48.34",
     "PrjDuration": "6.6",
     "PrjCost": "7.6",
     "PrjROI": "5.6",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "3575",
@@ -476,14 +476,14 @@
     "Population": "5642133.6",
     "PerCapita": "67245.9552",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "51.0264",
+    "SmartIndexValue": "51.03",
     "PrjDuration": "6.7",
     "PrjCost": "7.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "3711",
@@ -494,14 +494,14 @@
     "Population": "2598351",
     "PerCapita": "30968.532",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "23.499",
+    "SmartIndexValue": "23.5",
     "PrjDuration": "5.7",
     "PrjCost": "6.7",
     "PrjROI": "4.7",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3845",
@@ -512,14 +512,14 @@
     "Population": "2858186.1",
     "PerCapita": "34065.3852",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "25.8489",
+    "SmartIndexValue": "25.85",
     "PrjDuration": "5.8",
     "PrjCost": "6.8",
     "PrjROI": "4.8",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3979",
@@ -530,14 +530,14 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "28.1988",
+    "SmartIndexValue": "28.2",
     "PrjDuration": "5.9",
     "PrjCost": "6.9",
     "PrjROI": "4.9",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "4113",
@@ -548,14 +548,14 @@
     "Population": "3637691.4",
     "PerCapita": "43355.9448",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "32.8986",
+    "SmartIndexValue": "32.9",
     "PrjDuration": "6.1",
     "PrjCost": "7.1",
     "PrjROI": "5.1",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "0"
   },
   {
     "ID": "4247",
@@ -566,7 +566,7 @@
     "Population": "3897526.5",
     "PerCapita": "46452.798",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "35.2485",
+    "SmartIndexValue": "35.25",
     "PrjDuration": "6.2",
     "PrjCost": "7.2",
     "PrjROI": "5.2",
@@ -584,7 +584,7 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "37.5984",
+    "SmartIndexValue": "37.6",
     "PrjDuration": "6.3",
     "PrjCost": "7.3",
     "PrjROI": "5.3",
@@ -602,7 +602,7 @@
     "Population": "4417196.7",
     "PerCapita": "52646.5044",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "39.9483",
+    "SmartIndexValue": "39.95",
     "PrjDuration": "6.4",
     "PrjCost": "7.4",
     "PrjROI": "5.4",
@@ -620,7 +620,7 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "42.2982",
+    "SmartIndexValue": "42.3",
     "PrjDuration": "6.5",
     "PrjCost": "7.5",
     "PrjROI": "5.5",
@@ -638,14 +638,14 @@
     "Population": "4936866.9",
     "PerCapita": "58840.2108",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "44.6481",
+    "SmartIndexValue": "44.65",
     "PrjDuration": "6.6",
     "PrjCost": "7.6",
     "PrjROI": "5.6",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "0"
+    "Label": "1"
   },
   {
     "ID": "4919",
@@ -656,14 +656,14 @@
     "Population": "2227158",
     "PerCapita": "26544.456",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "20.142",
+    "SmartIndexValue": "20.14",
     "PrjDuration": "5.6",
     "PrjCost": "6.6",
     "PrjROI": "4.6",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "5053",
@@ -674,14 +674,14 @@
     "Population": "2449873.8",
     "PerCapita": "29198.9016",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "22.1562",
+    "SmartIndexValue": "22.16",
     "PrjDuration": "5.7",
     "PrjCost": "6.7",
     "PrjROI": "4.7",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "5187",
@@ -692,14 +692,14 @@
     "Population": "2672589.6",
     "PerCapita": "31853.3472",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "24.1704",
+    "SmartIndexValue": "24.17",
     "PrjDuration": "5.8",
     "PrjCost": "6.8",
     "PrjROI": "4.8",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "5321",
@@ -710,14 +710,14 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "28.1988",
+    "SmartIndexValue": "28.2",
     "PrjDuration": "6",
     "PrjCost": "7",
     "PrjROI": "5",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "5455",
@@ -728,14 +728,14 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "30.213",
+    "SmartIndexValue": "30.21",
     "PrjDuration": "6.1",
     "PrjCost": "7.1",
     "PrjROI": "5.1",
     "PrjName": "0",
     "PrjDescription": "Water Management Portal - Berlin",
     "PrjURL": "http://www.bwb.de/content/en/html/index.php",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "5589",
@@ -746,7 +746,7 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "32.2272",
+    "SmartIndexValue": "32.23",
     "PrjDuration": "6.2",
     "PrjCost": "7.2",
     "PrjROI": "5.2",
@@ -764,7 +764,7 @@
     "Population": "3786168.6",
     "PerCapita": "45125.5752",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "34.2414",
+    "SmartIndexValue": "34.24",
     "PrjDuration": "6.3",
     "PrjCost": "7.3",
     "PrjROI": "5.3",
@@ -782,7 +782,7 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "36.2556",
+    "SmartIndexValue": "36.26",
     "PrjDuration": "6.4",
     "PrjCost": "7.4",
     "PrjROI": "5.4",
@@ -800,7 +800,7 @@
     "Population": "4231600.2",
     "PerCapita": "50434.4664",
     "SmartIndex1": " Water_Pollution",
-    "SmartIndexValue": "38.2698",
+    "SmartIndexValue": "38.27",
     "PrjDuration": "6.5",
     "PrjCost": "7.5",
     "PrjROI": "5.5",

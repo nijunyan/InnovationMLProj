@@ -26,14 +26,14 @@
     "Population": "706249.5",
     "PerCapita": "48400",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "81.752",
+    "SmartIndexValue": "81.75",
     "PrjDuration": "1.1",
     "PrjCost": "2.1",
     "PrjROI": "3.1",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "332",
@@ -44,14 +44,14 @@
     "Population": "770454",
     "PerCapita": "52800",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "89.184",
+    "SmartIndexValue": "89.18",
     "PrjDuration": "1.2",
     "PrjCost": "2.2",
     "PrjROI": "3.2",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "466",
@@ -62,14 +62,14 @@
     "Population": "898863",
     "PerCapita": "61600",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "104.048",
+    "SmartIndexValue": "104.05",
     "PrjDuration": "1.4",
     "PrjCost": "2.4",
     "PrjROI": "3.4",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "600",
@@ -87,7 +87,7 @@
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "734",
@@ -98,14 +98,14 @@
     "Population": "1027272",
     "PerCapita": "70400",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "118.912",
+    "SmartIndexValue": "118.91",
     "PrjDuration": "1.6",
     "PrjCost": "2.6",
     "PrjROI": "3.6",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "868",
@@ -116,14 +116,14 @@
     "Population": "1091476.5",
     "PerCapita": "74800",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "126.344",
+    "SmartIndexValue": "126.34",
     "PrjDuration": "1.7",
     "PrjCost": "2.7",
     "PrjROI": "3.7",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "1002",
@@ -134,14 +134,14 @@
     "Population": "1155681",
     "PerCapita": "79200",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "133.776",
+    "SmartIndexValue": "133.78",
     "PrjDuration": "1.8",
     "PrjCost": "2.8",
     "PrjROI": "3.8",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "1136",
@@ -152,14 +152,14 @@
     "Population": "1219885.5",
     "PerCapita": "83600",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "141.208",
+    "SmartIndexValue": "141.21",
     "PrjDuration": "1.9",
     "PrjCost": "2.9",
     "PrjROI": "3.9",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "1272",
@@ -170,7 +170,7 @@
     "Population": "577840.5",
     "PerCapita": "39600",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "66.888",
+    "SmartIndexValue": "66.89",
     "PrjDuration": "0.9",
     "PrjCost": "1.9",
     "PrjROI": "2.9",
@@ -188,7 +188,7 @@
     "Population": "635624.55",
     "PerCapita": "43560",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "73.5768",
+    "SmartIndexValue": "73.58",
     "PrjDuration": "1",
     "PrjCost": "2",
     "PrjROI": "3",
@@ -206,14 +206,14 @@
     "Population": "693408.6",
     "PerCapita": "47520",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "80.2656",
+    "SmartIndexValue": "80.27",
     "PrjDuration": "1.1",
     "PrjCost": "2.1",
     "PrjROI": "3.1",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "1674",
@@ -224,14 +224,14 @@
     "Population": "808976.7",
     "PerCapita": "55440",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "93.6432",
+    "SmartIndexValue": "93.64",
     "PrjDuration": "1.3",
     "PrjCost": "2.3",
     "PrjROI": "3.3",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "1808",
@@ -242,14 +242,14 @@
     "Population": "866760.75",
     "PerCapita": "59400",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "100.332",
+    "SmartIndexValue": "100.33",
     "PrjDuration": "1.4",
     "PrjCost": "2.4",
     "PrjROI": "3.4",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "1942",
@@ -260,14 +260,14 @@
     "Population": "924544.8",
     "PerCapita": "63360",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "107.0208",
+    "SmartIndexValue": "107.02",
     "PrjDuration": "1.5",
     "PrjCost": "2.5",
     "PrjROI": "3.5",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "2076",
@@ -278,14 +278,14 @@
     "Population": "982328.85",
     "PerCapita": "67320",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "113.7096",
+    "SmartIndexValue": "113.71",
     "PrjDuration": "1.6",
     "PrjCost": "2.6",
     "PrjROI": "3.6",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "2210",
@@ -296,14 +296,14 @@
     "Population": "1040112.9",
     "PerCapita": "71280",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "120.3984",
+    "SmartIndexValue": "120.4",
     "PrjDuration": "1.7",
     "PrjCost": "2.7",
     "PrjROI": "3.7",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "2344",
@@ -314,14 +314,14 @@
     "Population": "1097896.95",
     "PerCapita": "75240",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "127.0872",
+    "SmartIndexValue": "127.09",
     "PrjDuration": "1.8",
     "PrjCost": "2.8",
     "PrjROI": "3.8",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "2480",
@@ -332,7 +332,7 @@
     "Population": "513636",
     "PerCapita": "35200",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "59.456",
+    "SmartIndexValue": "59.46",
     "PrjDuration": "0.8",
     "PrjCost": "1.8",
     "PrjROI": "2.8",
@@ -350,7 +350,7 @@
     "Population": "564999.6",
     "PerCapita": "38720",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "65.4016",
+    "SmartIndexValue": "65.4",
     "PrjDuration": "0.9",
     "PrjCost": "1.9",
     "PrjROI": "2.9",
@@ -368,7 +368,7 @@
     "Population": "616363.2",
     "PerCapita": "42240",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "71.3472",
+    "SmartIndexValue": "71.35",
     "PrjDuration": "1",
     "PrjCost": "2",
     "PrjROI": "3",
@@ -386,14 +386,14 @@
     "Population": "719090.4",
     "PerCapita": "49280",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "83.2384",
+    "SmartIndexValue": "83.24",
     "PrjDuration": "1.2",
     "PrjCost": "2.2",
     "PrjROI": "3.2",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "3016",
@@ -404,14 +404,14 @@
     "Population": "770454",
     "PerCapita": "52800",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "89.184",
+    "SmartIndexValue": "89.18",
     "PrjDuration": "1.3",
     "PrjCost": "2.3",
     "PrjROI": "3.3",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "3150",
@@ -422,14 +422,14 @@
     "Population": "821817.6",
     "PerCapita": "56320",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "95.1296",
+    "SmartIndexValue": "95.13",
     "PrjDuration": "1.4",
     "PrjCost": "2.4",
     "PrjROI": "3.4",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "3284",
@@ -440,14 +440,14 @@
     "Population": "873181.2",
     "PerCapita": "59840",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "101.0752",
+    "SmartIndexValue": "101.08",
     "PrjDuration": "1.5",
     "PrjCost": "2.5",
     "PrjROI": "3.5",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "3418",
@@ -458,14 +458,14 @@
     "Population": "924544.8",
     "PerCapita": "63360",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "107.0208",
+    "SmartIndexValue": "107.02",
     "PrjDuration": "1.6",
     "PrjCost": "2.6",
     "PrjROI": "3.6",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "3552",
@@ -476,14 +476,14 @@
     "Population": "975908.4",
     "PerCapita": "66880",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "112.9664",
+    "SmartIndexValue": "112.97",
     "PrjDuration": "1.7",
     "PrjCost": "2.7",
     "PrjROI": "3.7",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "0"
+    "Label": "2"
   },
   {
     "ID": "3688",
@@ -494,7 +494,7 @@
     "Population": "449431.5",
     "PerCapita": "30800",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "52.024",
+    "SmartIndexValue": "52.02",
     "PrjDuration": "0.7",
     "PrjCost": "1.7",
     "PrjROI": "2.7",
@@ -512,7 +512,7 @@
     "Population": "494374.65",
     "PerCapita": "33880",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "57.2264",
+    "SmartIndexValue": "57.23",
     "PrjDuration": "0.8",
     "PrjCost": "1.8",
     "PrjROI": "2.8",
@@ -530,7 +530,7 @@
     "Population": "539317.8",
     "PerCapita": "36960",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "62.4288",
+    "SmartIndexValue": "62.43",
     "PrjDuration": "0.9",
     "PrjCost": "1.9",
     "PrjROI": "2.9",
@@ -548,7 +548,7 @@
     "Population": "629204.1",
     "PerCapita": "43120",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "72.8336",
+    "SmartIndexValue": "72.83",
     "PrjDuration": "1.1",
     "PrjCost": "2.1",
     "PrjROI": "3.1",
@@ -566,14 +566,14 @@
     "Population": "674147.25",
     "PerCapita": "46200",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "78.036",
+    "SmartIndexValue": "78.04",
     "PrjDuration": "1.2",
     "PrjCost": "2.2",
     "PrjROI": "3.2",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "4358",
@@ -584,14 +584,14 @@
     "Population": "719090.4",
     "PerCapita": "49280",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "83.2384",
+    "SmartIndexValue": "83.24",
     "PrjDuration": "1.3",
     "PrjCost": "2.3",
     "PrjROI": "3.3",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "4492",
@@ -602,14 +602,14 @@
     "Population": "764033.55",
     "PerCapita": "52360",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "88.4408",
+    "SmartIndexValue": "88.44",
     "PrjDuration": "1.4",
     "PrjCost": "2.4",
     "PrjROI": "3.4",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "4626",
@@ -620,14 +620,14 @@
     "Population": "808976.7",
     "PerCapita": "55440",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "93.6432",
+    "SmartIndexValue": "93.64",
     "PrjDuration": "1.5",
     "PrjCost": "2.5",
     "PrjROI": "3.5",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "4760",
@@ -638,14 +638,14 @@
     "Population": "853919.85",
     "PerCapita": "58520",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "98.8456",
+    "SmartIndexValue": "98.85",
     "PrjDuration": "1.6",
     "PrjCost": "2.6",
     "PrjROI": "3.6",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "4896",
@@ -656,7 +656,7 @@
     "Population": "385227",
     "PerCapita": "26400",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "44.592",
+    "SmartIndexValue": "44.59",
     "PrjDuration": "0.6",
     "PrjCost": "1.6",
     "PrjROI": "2.6",
@@ -674,7 +674,7 @@
     "Population": "423749.7",
     "PerCapita": "29040",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "49.0512",
+    "SmartIndexValue": "49.05",
     "PrjDuration": "0.7",
     "PrjCost": "1.7",
     "PrjROI": "2.7",
@@ -692,7 +692,7 @@
     "Population": "462272.4",
     "PerCapita": "31680",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "53.5104",
+    "SmartIndexValue": "53.51",
     "PrjDuration": "0.8",
     "PrjCost": "1.8",
     "PrjROI": "2.8",
@@ -710,7 +710,7 @@
     "Population": "539317.8",
     "PerCapita": "36960",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "62.4288",
+    "SmartIndexValue": "62.43",
     "PrjDuration": "1",
     "PrjCost": "2",
     "PrjROI": "3",
@@ -728,7 +728,7 @@
     "Population": "577840.5",
     "PerCapita": "39600",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "66.888",
+    "SmartIndexValue": "66.89",
     "PrjDuration": "1.1",
     "PrjCost": "2.1",
     "PrjROI": "3.1",
@@ -746,14 +746,14 @@
     "Population": "616363.2",
     "PerCapita": "42240",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "71.3472",
+    "SmartIndexValue": "71.35",
     "PrjDuration": "1.2",
     "PrjCost": "2.2",
     "PrjROI": "3.2",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "5700",
@@ -764,14 +764,14 @@
     "Population": "654885.9",
     "PerCapita": "44880",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "75.8064",
+    "SmartIndexValue": "75.81",
     "PrjDuration": "1.3",
     "PrjCost": "2.3",
     "PrjROI": "3.3",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "5834",
@@ -782,14 +782,14 @@
     "Population": "693408.6",
     "PerCapita": "47520",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "80.2656",
+    "SmartIndexValue": "80.27",
     "PrjDuration": "1.4",
     "PrjCost": "2.4",
     "PrjROI": "3.4",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   },
   {
     "ID": "5968",
@@ -800,13 +800,13 @@
     "Population": "731931.3",
     "PerCapita": "50160",
     "SmartIndex1": " healthcare index",
-    "SmartIndexValue": "84.7248",
+    "SmartIndexValue": "84.72",
     "PrjDuration": "1.5",
     "PrjCost": "2.5",
     "PrjROI": "3.5",
     "PrjName": "0",
     "PrjDescription": "The Kalasatama Wellbeing programme is piloting Wellness Foundry's MealLogger app in collaboration with the programme\u00e2\u20ac\u2122s partner, Kesko occupational health care services.",
     "PrjURL": "https://forumvirium.fi/en/",
-    "Label": "2"
+    "Label": "0"
   }
 ]

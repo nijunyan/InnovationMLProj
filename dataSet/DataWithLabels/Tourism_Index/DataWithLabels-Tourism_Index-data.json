@@ -15,7 +15,7 @@
     "PrjName": "",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "101",
@@ -44,14 +44,14 @@
     "Population": "4083123",
     "PerCapita": "48664.836",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.808",
+    "SmartIndexValue": "5.81",
     "PrjDuration": "7.1",
     "PrjCost": "6.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "235",
@@ -62,7 +62,7 @@
     "Population": "4083123",
     "PerCapita": "48664.836",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.808",
+    "SmartIndexValue": "5.81",
     "PrjDuration": "7.1",
     "PrjCost": "8.1",
     "PrjROI": "5.1",
@@ -80,14 +80,14 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.336",
+    "SmartIndexValue": "6.34",
     "PrjDuration": "7.2",
     "PrjCost": "6.2",
     "PrjROI": "6.2",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "369",
@@ -98,7 +98,7 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.336",
+    "SmartIndexValue": "6.34",
     "PrjDuration": "7.2",
     "PrjCost": "8.2",
     "PrjROI": "5.2",
@@ -116,14 +116,14 @@
     "Population": "5196702",
     "PerCapita": "61937.064",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.392",
+    "SmartIndexValue": "7.39",
     "PrjDuration": "7.4",
     "PrjCost": "6.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "503",
@@ -134,14 +134,14 @@
     "Population": "5196702",
     "PerCapita": "61937.064",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.392",
+    "SmartIndexValue": "7.39",
     "PrjDuration": "7.4",
     "PrjCost": "8.4",
     "PrjROI": "5.4",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "602",
@@ -159,7 +159,7 @@
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "637",
@@ -177,7 +177,7 @@
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "736",
@@ -188,14 +188,14 @@
     "Population": "5939088",
     "PerCapita": "70785.216",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.448",
+    "SmartIndexValue": "8.45",
     "PrjDuration": "7.6",
     "PrjCost": "6.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "771",
@@ -206,14 +206,14 @@
     "Population": "5939088",
     "PerCapita": "70785.216",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.448",
+    "SmartIndexValue": "8.45",
     "PrjDuration": "7.6",
     "PrjCost": "8.6",
     "PrjROI": "5.6",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "870",
@@ -224,14 +224,14 @@
     "Population": "6310281",
     "PerCapita": "75209.292",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.976",
+    "SmartIndexValue": "8.98",
     "PrjDuration": "7.7",
     "PrjCost": "6.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "905",
@@ -242,14 +242,14 @@
     "Population": "6310281",
     "PerCapita": "75209.292",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.976",
+    "SmartIndexValue": "8.98",
     "PrjDuration": "7.7",
     "PrjCost": "8.7",
     "PrjROI": "5.7",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1004",
@@ -260,14 +260,14 @@
     "Population": "6681474",
     "PerCapita": "79633.368",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "9.504",
+    "SmartIndexValue": "9.5",
     "PrjDuration": "7.8",
     "PrjCost": "6.8",
     "PrjROI": "6.8",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1039",
@@ -278,14 +278,14 @@
     "Population": "6681474",
     "PerCapita": "79633.368",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "9.504",
+    "SmartIndexValue": "9.5",
     "PrjDuration": "7.8",
     "PrjCost": "8.8",
     "PrjROI": "5.8",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1138",
@@ -296,14 +296,14 @@
     "Population": "7052667",
     "PerCapita": "84057.444",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "10.032",
+    "SmartIndexValue": "10.03",
     "PrjDuration": "7.9",
     "PrjCost": "6.9",
     "PrjROI": "6.9",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1173",
@@ -314,14 +314,14 @@
     "Population": "7052667",
     "PerCapita": "84057.444",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "10.032",
+    "SmartIndexValue": "10.03",
     "PrjDuration": "7.9",
     "PrjCost": "8.9",
     "PrjROI": "5.9",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1274",
@@ -332,14 +332,14 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.752",
+    "SmartIndexValue": "4.75",
     "PrjDuration": "6.9",
     "PrjCost": "5.9",
     "PrjROI": "5.9",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1309",
@@ -350,7 +350,7 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.752",
+    "SmartIndexValue": "4.75",
     "PrjDuration": "6.9",
     "PrjCost": "7.9",
     "PrjROI": "4.9",
@@ -368,14 +368,14 @@
     "Population": "3674810.7",
     "PerCapita": "43798.3524",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.2272",
+    "SmartIndexValue": "5.23",
     "PrjDuration": "7",
     "PrjCost": "6",
     "PrjROI": "6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1443",
@@ -386,7 +386,7 @@
     "Population": "3674810.7",
     "PerCapita": "43798.3524",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.2272",
+    "SmartIndexValue": "5.23",
     "PrjDuration": "7",
     "PrjCost": "8",
     "PrjROI": "5",
@@ -404,14 +404,14 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.7024",
+    "SmartIndexValue": "5.7",
     "PrjDuration": "7.1",
     "PrjCost": "6.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1577",
@@ -422,7 +422,7 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.7024",
+    "SmartIndexValue": "5.7",
     "PrjDuration": "7.1",
     "PrjCost": "8.1",
     "PrjROI": "5.1",
@@ -440,14 +440,14 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.6528",
+    "SmartIndexValue": "6.65",
     "PrjDuration": "7.3",
     "PrjCost": "6.3",
     "PrjROI": "6.3",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "1711",
@@ -458,7 +458,7 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.6528",
+    "SmartIndexValue": "6.65",
     "PrjDuration": "7.3",
     "PrjCost": "8.3",
     "PrjROI": "5.3",
@@ -476,14 +476,14 @@
     "Population": "5011105.5",
     "PerCapita": "59725.026",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.128",
+    "SmartIndexValue": "7.13",
     "PrjDuration": "7.4",
     "PrjCost": "6.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1845",
@@ -494,14 +494,14 @@
     "Population": "5011105.5",
     "PerCapita": "59725.026",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.128",
+    "SmartIndexValue": "7.13",
     "PrjDuration": "7.4",
     "PrjCost": "8.4",
     "PrjROI": "5.4",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1944",
@@ -512,14 +512,14 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.6032",
+    "SmartIndexValue": "7.6",
     "PrjDuration": "7.5",
     "PrjCost": "6.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "1979",
@@ -530,14 +530,14 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.6032",
+    "SmartIndexValue": "7.6",
     "PrjDuration": "7.5",
     "PrjCost": "8.5",
     "PrjROI": "5.5",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2078",
@@ -548,14 +548,14 @@
     "Population": "5679252.9",
     "PerCapita": "67688.3628",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.0784",
+    "SmartIndexValue": "8.08",
     "PrjDuration": "7.6",
     "PrjCost": "6.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2113",
@@ -566,14 +566,14 @@
     "Population": "5679252.9",
     "PerCapita": "67688.3628",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.0784",
+    "SmartIndexValue": "8.08",
     "PrjDuration": "7.6",
     "PrjCost": "8.6",
     "PrjROI": "5.6",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2212",
@@ -584,14 +584,14 @@
     "Population": "6013326.6",
     "PerCapita": "71670.0312",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.5536",
+    "SmartIndexValue": "8.55",
     "PrjDuration": "7.7",
     "PrjCost": "6.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2247",
@@ -602,14 +602,14 @@
     "Population": "6013326.6",
     "PerCapita": "71670.0312",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.5536",
+    "SmartIndexValue": "8.55",
     "PrjDuration": "7.7",
     "PrjCost": "8.7",
     "PrjROI": "5.7",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2346",
@@ -620,14 +620,14 @@
     "Population": "6347400.3",
     "PerCapita": "75651.6996",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "9.0288",
+    "SmartIndexValue": "9.03",
     "PrjDuration": "7.8",
     "PrjCost": "6.8",
     "PrjROI": "6.8",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2381",
@@ -638,14 +638,14 @@
     "Population": "6347400.3",
     "PerCapita": "75651.6996",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "9.0288",
+    "SmartIndexValue": "9.03",
     "PrjDuration": "7.8",
     "PrjCost": "8.8",
     "PrjROI": "5.8",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "2482",
@@ -656,14 +656,14 @@
     "Population": "2969544",
     "PerCapita": "35392.608",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.224",
+    "SmartIndexValue": "4.22",
     "PrjDuration": "6.8",
     "PrjCost": "5.8",
     "PrjROI": "5.8",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2517",
@@ -674,7 +674,7 @@
     "Population": "2969544",
     "PerCapita": "35392.608",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.224",
+    "SmartIndexValue": "4.22",
     "PrjDuration": "6.8",
     "PrjCost": "7.8",
     "PrjROI": "4.8",
@@ -692,14 +692,14 @@
     "Population": "3266498.4",
     "PerCapita": "38931.8688",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.6464",
+    "SmartIndexValue": "4.65",
     "PrjDuration": "6.9",
     "PrjCost": "5.9",
     "PrjROI": "5.9",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2651",
@@ -710,7 +710,7 @@
     "Population": "3266498.4",
     "PerCapita": "38931.8688",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.6464",
+    "SmartIndexValue": "4.65",
     "PrjDuration": "6.9",
     "PrjCost": "7.9",
     "PrjROI": "4.9",
@@ -728,14 +728,14 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.0688",
+    "SmartIndexValue": "5.07",
     "PrjDuration": "7",
     "PrjCost": "6",
     "PrjROI": "6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2785",
@@ -746,7 +746,7 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.0688",
+    "SmartIndexValue": "5.07",
     "PrjDuration": "7",
     "PrjCost": "8",
     "PrjROI": "5",
@@ -764,14 +764,14 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.9136",
+    "SmartIndexValue": "5.91",
     "PrjDuration": "7.2",
     "PrjCost": "6.2",
     "PrjROI": "6.2",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "2919",
@@ -782,7 +782,7 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.9136",
+    "SmartIndexValue": "5.91",
     "PrjDuration": "7.2",
     "PrjCost": "8.2",
     "PrjROI": "5.2",
@@ -800,14 +800,14 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.336",
+    "SmartIndexValue": "6.34",
     "PrjDuration": "7.3",
     "PrjCost": "6.3",
     "PrjROI": "6.3",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "3053",
@@ -818,7 +818,7 @@
     "Population": "4454316",
     "PerCapita": "53088.912",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.336",
+    "SmartIndexValue": "6.34",
     "PrjDuration": "7.3",
     "PrjCost": "8.3",
     "PrjROI": "5.3",
@@ -836,14 +836,14 @@
     "Population": "4751270.4",
     "PerCapita": "56628.1728",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.7584",
+    "SmartIndexValue": "6.76",
     "PrjDuration": "7.4",
     "PrjCost": "6.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3187",
@@ -854,14 +854,14 @@
     "Population": "4751270.4",
     "PerCapita": "56628.1728",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.7584",
+    "SmartIndexValue": "6.76",
     "PrjDuration": "7.4",
     "PrjCost": "8.4",
     "PrjROI": "5.4",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3286",
@@ -872,14 +872,14 @@
     "Population": "5048224.8",
     "PerCapita": "60167.4336",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.1808",
+    "SmartIndexValue": "7.18",
     "PrjDuration": "7.5",
     "PrjCost": "6.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3321",
@@ -890,14 +890,14 @@
     "Population": "5048224.8",
     "PerCapita": "60167.4336",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.1808",
+    "SmartIndexValue": "7.18",
     "PrjDuration": "7.5",
     "PrjCost": "8.5",
     "PrjROI": "5.5",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3420",
@@ -908,14 +908,14 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.6032",
+    "SmartIndexValue": "7.6",
     "PrjDuration": "7.6",
     "PrjCost": "6.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3455",
@@ -926,14 +926,14 @@
     "Population": "5345179.2",
     "PerCapita": "63706.6944",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.6032",
+    "SmartIndexValue": "7.6",
     "PrjDuration": "7.6",
     "PrjCost": "8.6",
     "PrjROI": "5.6",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3554",
@@ -944,14 +944,14 @@
     "Population": "5642133.6",
     "PerCapita": "67245.9552",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.0256",
+    "SmartIndexValue": "8.03",
     "PrjDuration": "7.7",
     "PrjCost": "6.7",
     "PrjROI": "6.7",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3589",
@@ -962,14 +962,14 @@
     "Population": "5642133.6",
     "PerCapita": "67245.9552",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "8.0256",
+    "SmartIndexValue": "8.03",
     "PrjDuration": "7.7",
     "PrjCost": "8.7",
     "PrjROI": "5.7",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "3690",
@@ -980,14 +980,14 @@
     "Population": "2598351",
     "PerCapita": "30968.532",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.696",
+    "SmartIndexValue": "3.7",
     "PrjDuration": "6.7",
     "PrjCost": "5.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "3725",
@@ -998,7 +998,7 @@
     "Population": "2598351",
     "PerCapita": "30968.532",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.696",
+    "SmartIndexValue": "3.7",
     "PrjDuration": "6.7",
     "PrjCost": "7.7",
     "PrjROI": "4.7",
@@ -1016,14 +1016,14 @@
     "Population": "2858186.1",
     "PerCapita": "34065.3852",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.0656",
+    "SmartIndexValue": "4.07",
     "PrjDuration": "6.8",
     "PrjCost": "5.8",
     "PrjROI": "5.8",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "3859",
@@ -1034,7 +1034,7 @@
     "Population": "2858186.1",
     "PerCapita": "34065.3852",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.0656",
+    "SmartIndexValue": "4.07",
     "PrjDuration": "6.8",
     "PrjCost": "7.8",
     "PrjROI": "4.8",
@@ -1052,14 +1052,14 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.4352",
+    "SmartIndexValue": "4.44",
     "PrjDuration": "6.9",
     "PrjCost": "5.9",
     "PrjROI": "5.9",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "3993",
@@ -1070,7 +1070,7 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.4352",
+    "SmartIndexValue": "4.44",
     "PrjDuration": "6.9",
     "PrjCost": "7.9",
     "PrjROI": "4.9",
@@ -1088,14 +1088,14 @@
     "Population": "3637691.4",
     "PerCapita": "43355.9448",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.1744",
+    "SmartIndexValue": "5.17",
     "PrjDuration": "7.1",
     "PrjCost": "6.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "4127",
@@ -1106,7 +1106,7 @@
     "Population": "3637691.4",
     "PerCapita": "43355.9448",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.1744",
+    "SmartIndexValue": "5.17",
     "PrjDuration": "7.1",
     "PrjCost": "8.1",
     "PrjROI": "5.1",
@@ -1124,14 +1124,14 @@
     "Population": "3897526.5",
     "PerCapita": "46452.798",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.544",
+    "SmartIndexValue": "5.54",
     "PrjDuration": "7.2",
     "PrjCost": "6.2",
     "PrjROI": "6.2",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "4261",
@@ -1142,7 +1142,7 @@
     "Population": "3897526.5",
     "PerCapita": "46452.798",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.544",
+    "SmartIndexValue": "5.54",
     "PrjDuration": "7.2",
     "PrjCost": "8.2",
     "PrjROI": "5.2",
@@ -1160,14 +1160,14 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.9136",
+    "SmartIndexValue": "5.91",
     "PrjDuration": "7.3",
     "PrjCost": "6.3",
     "PrjROI": "6.3",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "4395",
@@ -1178,7 +1178,7 @@
     "Population": "4157361.6",
     "PerCapita": "49549.6512",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.9136",
+    "SmartIndexValue": "5.91",
     "PrjDuration": "7.3",
     "PrjCost": "8.3",
     "PrjROI": "5.3",
@@ -1196,14 +1196,14 @@
     "Population": "4417196.7",
     "PerCapita": "52646.5044",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.2832",
+    "SmartIndexValue": "6.28",
     "PrjDuration": "7.4",
     "PrjCost": "6.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "4529",
@@ -1214,7 +1214,7 @@
     "Population": "4417196.7",
     "PerCapita": "52646.5044",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.2832",
+    "SmartIndexValue": "6.28",
     "PrjDuration": "7.4",
     "PrjCost": "8.4",
     "PrjROI": "5.4",
@@ -1232,14 +1232,14 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.6528",
+    "SmartIndexValue": "6.65",
     "PrjDuration": "7.5",
     "PrjCost": "6.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "4663",
@@ -1250,14 +1250,14 @@
     "Population": "4677031.8",
     "PerCapita": "55743.3576",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.6528",
+    "SmartIndexValue": "6.65",
     "PrjDuration": "7.5",
     "PrjCost": "8.5",
     "PrjROI": "5.5",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "4762",
@@ -1268,14 +1268,14 @@
     "Population": "4936866.9",
     "PerCapita": "58840.2108",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.0224",
+    "SmartIndexValue": "7.02",
     "PrjDuration": "7.6",
     "PrjCost": "6.6",
     "PrjROI": "6.6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "4797",
@@ -1286,14 +1286,14 @@
     "Population": "4936866.9",
     "PerCapita": "58840.2108",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "7.0224",
+    "SmartIndexValue": "7.02",
     "PrjDuration": "7.6",
     "PrjCost": "8.6",
     "PrjROI": "5.6",
     "PrjName": "The tourism app CultiMapp opens up new possibilities to explore Berlin by linking and enriching the Berlin 3D city model with cultural information. The integrated 3D viewer allows you to fly over interesting buildings near your own location. In the future, historical photographs and detailed shots will also be integrated into the viewer to make Berlin's cultural heritage visible.",
     "PrjDescription": "CultiMapp",
     "PrjURL": "https://daten.berlin.de/anwendungen/cultimapp",
-    "Label": "1"
+    "Label": "2"
   },
   {
     "ID": "4898",
@@ -1304,14 +1304,14 @@
     "Population": "2227158",
     "PerCapita": "26544.456",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.168",
+    "SmartIndexValue": "3.17",
     "PrjDuration": "6.6",
     "PrjCost": "5.6",
     "PrjROI": "5.6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "4933",
@@ -1322,7 +1322,7 @@
     "Population": "2227158",
     "PerCapita": "26544.456",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.168",
+    "SmartIndexValue": "3.17",
     "PrjDuration": "6.6",
     "PrjCost": "7.6",
     "PrjROI": "4.6",
@@ -1340,14 +1340,14 @@
     "Population": "2449873.8",
     "PerCapita": "29198.9016",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.4848",
+    "SmartIndexValue": "3.48",
     "PrjDuration": "6.7",
     "PrjCost": "5.7",
     "PrjROI": "5.7",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5067",
@@ -1358,7 +1358,7 @@
     "Population": "2449873.8",
     "PerCapita": "29198.9016",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.4848",
+    "SmartIndexValue": "3.48",
     "PrjDuration": "6.7",
     "PrjCost": "7.7",
     "PrjROI": "4.7",
@@ -1376,14 +1376,14 @@
     "Population": "2672589.6",
     "PerCapita": "31853.3472",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.8016",
+    "SmartIndexValue": "3.8",
     "PrjDuration": "6.8",
     "PrjCost": "5.8",
     "PrjROI": "5.8",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5201",
@@ -1394,7 +1394,7 @@
     "Population": "2672589.6",
     "PerCapita": "31853.3472",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "3.8016",
+    "SmartIndexValue": "3.8",
     "PrjDuration": "6.8",
     "PrjCost": "7.8",
     "PrjROI": "4.8",
@@ -1412,14 +1412,14 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.4352",
+    "SmartIndexValue": "4.44",
     "PrjDuration": "7",
     "PrjCost": "6",
     "PrjROI": "6",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5335",
@@ -1430,7 +1430,7 @@
     "Population": "3118021.2",
     "PerCapita": "37162.2384",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.4352",
+    "SmartIndexValue": "4.44",
     "PrjDuration": "7",
     "PrjCost": "8",
     "PrjROI": "5",
@@ -1448,14 +1448,14 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.752",
+    "SmartIndexValue": "4.75",
     "PrjDuration": "7.1",
     "PrjCost": "6.1",
     "PrjROI": "6.1",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5469",
@@ -1466,7 +1466,7 @@
     "Population": "3340737",
     "PerCapita": "39816.684",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "4.752",
+    "SmartIndexValue": "4.75",
     "PrjDuration": "7.1",
     "PrjCost": "8.1",
     "PrjROI": "5.1",
@@ -1484,14 +1484,14 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.0688",
+    "SmartIndexValue": "5.07",
     "PrjDuration": "7.2",
     "PrjCost": "6.2",
     "PrjROI": "6.2",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5603",
@@ -1502,7 +1502,7 @@
     "Population": "3563452.8",
     "PerCapita": "42471.1296",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.0688",
+    "SmartIndexValue": "5.07",
     "PrjDuration": "7.2",
     "PrjCost": "8.2",
     "PrjROI": "5.2",
@@ -1520,14 +1520,14 @@
     "Population": "3786168.6",
     "PerCapita": "45125.5752",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.3856",
+    "SmartIndexValue": "5.39",
     "PrjDuration": "7.3",
     "PrjCost": "6.3",
     "PrjROI": "6.3",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5737",
@@ -1538,7 +1538,7 @@
     "Population": "3786168.6",
     "PerCapita": "45125.5752",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.3856",
+    "SmartIndexValue": "5.39",
     "PrjDuration": "7.3",
     "PrjCost": "8.3",
     "PrjROI": "5.3",
@@ -1556,14 +1556,14 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.7024",
+    "SmartIndexValue": "5.7",
     "PrjDuration": "7.4",
     "PrjCost": "6.4",
     "PrjROI": "6.4",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "5871",
@@ -1574,7 +1574,7 @@
     "Population": "4008884.4",
     "PerCapita": "47780.0208",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "5.7024",
+    "SmartIndexValue": "5.7",
     "PrjDuration": "7.4",
     "PrjCost": "8.4",
     "PrjROI": "5.4",
@@ -1592,14 +1592,14 @@
     "Population": "4231600.2",
     "PerCapita": "50434.4664",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.0192",
+    "SmartIndexValue": "6.02",
     "PrjDuration": "7.5",
     "PrjCost": "6.5",
     "PrjROI": "6.5",
     "PrjName": "0",
     "PrjDescription": "Visit Berlin Portal",
     "PrjURL": "https://www.visitberlin.de/en",
-    "Label": "2"
+    "Label": "1"
   },
   {
     "ID": "6005",
@@ -1610,7 +1610,7 @@
     "Population": "4231600.2",
     "PerCapita": "50434.4664",
     "SmartIndex1": " Tourism_Index",
-    "SmartIndexValue": "6.0192",
+    "SmartIndexValue": "6.02",
     "PrjDuration": "7.5",
     "PrjCost": "8.5",
     "PrjROI": "5.5",

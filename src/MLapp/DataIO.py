@@ -41,6 +41,7 @@ def getOneOriginalData():
     file = "all-data.json"
     sData = readFileContent(dir, file)
     aData = json.loads(sData)
+
     return json.dumps(aData[0], indent=2)
 
 def makeUpDataInArray(oData, aFeatures):
@@ -332,5 +333,23 @@ def initFolders(dir):
 
 if __name__ == "__main__":
     # appendStrData("", "importTmpAllData", None)
-    j = retriveAllClusters()
+    # j = retriveAllClusters()
+    aFeatures = [
+         "CityArea", "Population", "PerCapita",
+        "SmartIndexValue", "PrjDuration", "PrjCost", "PrjROI"
+    ]
+    dir = os.path.abspath('../..') + os.sep + "dataSet"
+    file = "all-data.json"
+    sData = retriveAllData(dir, file)
+    aData = json.loads(sData)
+
+    cnt = 0
+    for i in range(len(aData)):
+        oData = aData[i]
+        for j in range(len(aFeatures)):
+            f = aFeatures[j]
+            if type (oData[f]) is None:
+                cnt += 1
+                print (str(oData["ID"]) + " " + f)
+    print (cnt)
     pass
